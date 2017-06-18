@@ -1,0 +1,1462 @@
+DEBUG:root:Starting TRANSLATE.PY
+DEBUG:root:SERVER MODE: True
+DEBUG:root:IF_SERVERMODE
+DEBUG:root:INIT, STARTING THE TRANSLATION SERVER...
+DEBUG:root:Starting the translation server
+DEBUG:root:Truecasing server is up
+DEBUG:root:Tokenizer server is up
+DEBUG:root:Segmenter server is up
+DEBUG:root:Starting TRANSLATE.PY
+DEBUG:root:SERVER MODE: True
+DEBUG:root:IF_SERVERMODE
+DEBUG:root:INIT, STARTING THE TRANSLATION SERVER...
+DEBUG:root:Starting the translation server
+DEBUG:root:Truecasing server is up
+DEBUG:root:Tokenizer server is up
+DEBUG:root:Segmenter server is up
+DEBUG:root:Starting TRANSLATE.PY
+DEBUG:root:SERVER MODE: True
+DEBUG:root:IF_SERVERMODE
+DEBUG:root:INIT, STARTING THE TRANSLATION SERVER...
+DEBUG:root:Starting the translation server
+DEBUG:root:Truecasing server is up
+DEBUG:root:Tokenizer server is up
+DEBUG:root:Segmenter server is up
+DEBUG:root:0
+DEBUG:root:Starting TRANSLATE.PY
+DEBUG:root:SERVER MODE: True
+DEBUG:root:IF_SERVERMODE
+DEBUG:root:INIT, STARTING THE TRANSLATION SERVER...
+DEBUG:root:Starting the translation server
+DEBUG:root:Truecasing server is up
+DEBUG:root:Tokenizer server is up
+DEBUG:root:Segmenter server is up
+DEBUG:root:0
+DEBUG:root:Starting TRANSLATE.PY
+DEBUG:root:SERVER MODE: True
+DEBUG:root:IF_SERVERMODE
+DEBUG:root:INIT, STARTING THE TRANSLATION SERVER...
+DEBUG:root:Starting the translation server
+DEBUG:root:Truecasing server is up
+DEBUG:root:Tokenizer server is up
+DEBUG:root:Segmenter server is up
+DEBUG:root:0
+DEBUG:root:-1
+DEBUG:root:-2
+DEBUG:root:1
+DEBUG:root:2
+DEBUG:root:3
+DEBUG:root:Starting TRANSLATE.PY
+DEBUG:root:SERVER MODE: True
+DEBUG:root:IF_SERVERMODE
+DEBUG:root:INIT, STARTING THE TRANSLATION SERVER...
+DEBUG:root:Starting the translation server
+DEBUG:root:Truecasing server is up
+DEBUG:root:Tokenizer server is up
+DEBUG:root:Segmenter server is up
+DEBUG:root:3
+DEBUG:root:3.1
+DEBUG:root:Starting TRANSLATE.PY
+DEBUG:root:SERVER MODE: True
+DEBUG:root:IF_SERVERMODE
+DEBUG:root:INIT, STARTING THE TRANSLATION SERVER...
+DEBUG:root:Starting the translation server
+DEBUG:root:Truecasing server is up
+DEBUG:root:Tokenizer server is up
+DEBUG:root:Segmenter server is up
+DEBUG:root:3
+DEBUG:root:3.1
+DEBUG:root:Starting TRANSLATE.PY
+DEBUG:root:SERVER MODE: True
+DEBUG:root:IF_SERVERMODE
+DEBUG:root:INIT, STARTING THE TRANSLATION SERVER...
+DEBUG:root:Starting the translation server
+DEBUG:root:Truecasing server is up
+DEBUG:root:Tokenizer server is up
+DEBUG:root:Segmenter server is up
+DEBUG:root:3
+DEBUG:root:3.1
+DEBUG:root:Starting TRANSLATE.PY
+DEBUG:root:SERVER MODE: True
+DEBUG:root:IF_SERVERMODE
+DEBUG:root:INIT, STARTING THE TRANSLATION SERVER...
+DEBUG:root:Starting the translation server
+DEBUG:root:Truecasing server is up
+DEBUG:root:Tokenizer server is up
+DEBUG:root:Segmenter server is up
+DEBUG:root:3
+DEBUG:root:3.1
+DEBUG:root:Starting TRANSLATE.PY
+DEBUG:root:SERVER MODE: True
+DEBUG:root:IF_SERVERMODE
+DEBUG:root:INIT, STARTING THE TRANSLATION SERVER...
+DEBUG:root:Starting the translation server
+DEBUG:root:Truecasing server is up
+DEBUG:root:Tokenizer server is up
+DEBUG:root:Segmenter server is up
+DEBUG:root:3
+DEBUG:root:3.1
+DEBUG:root:Starting TRANSLATE.PY
+DEBUG:root:SERVER MODE: True
+DEBUG:root:IF_SERVERMODE
+DEBUG:root:INIT, STARTING THE TRANSLATION SERVER...
+DEBUG:root:Starting the translation server
+DEBUG:root:Truecasing server is up
+DEBUG:root:Tokenizer server is up
+DEBUG:root:Segmenter server is up
+DEBUG:root:3
+DEBUG:root:3.1
+DEBUG:root:4
+DEBUG:root:5
+DEBUG:root:6
+DEBUG:root:7
+DEBUG:root:8
+DEBUG:root:Time2LoadServer: 42.979863 (seconds)
+
+DEBUG:root:Translation request (original): |this is a test .FUNKING TEST .|
+DEBUG:root:Translation request (tokenized): |this is a test .FUNKING TEST .|
+DEBUG:root:Translation request (truecased): |this is a test .FUNKING TEST .|
+DEBUG:root:Translation request (segmented): |this is a test .@@ FUN@@ KING TE@@ ST .|
+DEBUG:root:Translation answer: |Questo è un test .|
+DEBUG:root:Time2Translate: 1.778885 seconds
+DEBUG:root:Starting TRANSLATE.PY
+DEBUG:root:SERVER MODE: True
+DEBUG:root:IF_SERVERMODE
+DEBUG:root:INIT, STARTING THE TRANSLATION SERVER...
+DEBUG:root:Starting the translation server
+DEBUG:root:Truecasing server is up
+DEBUG:root:Tokenizer server is up
+DEBUG:root:Segmenter server is up
+DEBUG:root:3
+DEBUG:root:3.1
+DEBUG:root:4
+DEBUG:root:5
+DEBUG:root:6
+DEBUG:root:7
+DEBUG:root:8
+DEBUG:root:Time2LoadServer: 30.12604 (seconds)
+
+DEBUG:root:Translation request (original): |I am|
+DEBUG:root:Translation request (tokenized): |I am|
+DEBUG:root:Translation request (truecased): |I am|
+DEBUG:root:Translation request (segmented): |I am|
+DEBUG:root:Translation answer: |Io .|
+DEBUG:root:Time2Translate: 0.567023 seconds
+DEBUG:root:Translation request (original): |this is a test .|
+DEBUG:root:Translation request (tokenized): |this is a test .|
+DEBUG:root:Translation request (truecased): |this is a test .|
+DEBUG:root:Translation request (segmented): |this is a test .|
+DEBUG:root:Translation answer: |Questa è una prova .|
+DEBUG:root:Time2Translate: 1.004224 seconds
+DEBUG:root:Starting TRANSLATE.PY
+DEBUG:root:SERVER MODE: True
+DEBUG:root:IF_SERVERMODE
+DEBUG:root:INIT, STARTING THE TRANSLATION SERVER...
+DEBUG:root:Starting the translation server
+DEBUG:root:Truecasing server is up
+DEBUG:root:Tokenizer server is up
+DEBUG:root:Segmenter server is up
+DEBUG:root:3
+DEBUG:root:3.1
+DEBUG:root:4
+DEBUG:root:5
+DEBUG:root:6
+DEBUG:root:7
+DEBUG:root:8
+DEBUG:root:Time2LoadServer: 33.170846 (seconds)
+
+DEBUG:root:Translation request (original): |this is a test .|
+DEBUG:root:Translation request (tokenized): |this is a test .|
+DEBUG:root:Translation request (truecased): |this is a test .|
+DEBUG:root:Translation request (segmented): |this is a test .|
+DEBUG:root:Translation answer: |Questa è una prova .|
+DEBUG:root:Time2Translate: 1.500123 seconds
+DEBUG:root:Translation request (original): |Today a meeting is held in Trento downtown.|
+DEBUG:root:Translation request (tokenized): |Today a meeting is held in Trento downtown .|
+DEBUG:root:Translation request (truecased): |today a meeting is held in Trento downtown .|
+DEBUG:root:Translation request (segmented): |today a meeting is held in Tr@@ ento downtown .|
+DEBUG:root:Translation answer: |Oggi si svolge un incontro a Trento centro .|
+DEBUG:root:Time2Translate: 1.741234 seconds
+DEBUG:root:Translation request (original): |this is a test .|
+DEBUG:root:Translation request (tokenized): |this is a test .|
+DEBUG:root:Translation request (truecased): |this is a test .|
+DEBUG:root:Translation request (segmented): |this is a test .|
+DEBUG:root:Translation answer: |Questa è una prova .|
+DEBUG:root:Time2Translate: 0.981136 seconds
+DEBUG:root:Translation request (original): |this is a test .|
+DEBUG:root:Translation request (tokenized): |this is a test .|
+DEBUG:root:Translation request (truecased): |this is a test .|
+DEBUG:root:Translation request (segmented): |this is a test .|
+DEBUG:root:Translation answer: |Questa è una prova .|
+DEBUG:root:Time2Translate: 1.020012 seconds
+DEBUG:root:Translation request (original): |this is a test|
+DEBUG:root:Translation request (tokenized): |this is a test|
+DEBUG:root:Translation request (truecased): |this is a test|
+DEBUG:root:Translation request (segmented): |this is a test|
+DEBUG:root:Translation answer: |Questo è un banco di prova .|
+DEBUG:root:Time2Translate: 0.925627 seconds
+DEBUG:root:Translation request (original): |this is a test.|
+DEBUG:root:Translation request (tokenized): |this is a test .|
+DEBUG:root:Translation request (truecased): |this is a test .|
+DEBUG:root:Translation request (segmented): |this is a test .|
+DEBUG:root:Translation answer: |Questa è una prova .|
+DEBUG:root:Time2Translate: 1.025455 seconds
+DEBUG:root:Starting TRANSLATE.PY
+DEBUG:root:SERVER MODE: True
+DEBUG:root:IF_SERVERMODE
+DEBUG:root:INIT, STARTING THE TRANSLATION SERVER...
+DEBUG:root:Starting the translation server
+DEBUG:root:Truecasing server is up
+DEBUG:root:Tokenizer server is up
+DEBUG:root:Segmenter server is up
+DEBUG:root:Detokenizer server is up
+DEBUG:root:Starting TRANSLATE.PY
+DEBUG:root:SERVER MODE: True
+DEBUG:root:IF_SERVERMODE
+DEBUG:root:INIT, STARTING THE TRANSLATION SERVER...
+DEBUG:root:Starting the translation server
+DEBUG:root:Truecasing server is up
+DEBUG:root:Tokenizer server is up
+DEBUG:root:Segmenter server is up
+DEBUG:root:Detokenizer server is up
+DEBUG:root:Starting TRANSLATE.PY
+DEBUG:root:SERVER MODE: True
+DEBUG:root:IF_SERVERMODE
+DEBUG:root:INIT, STARTING THE TRANSLATION SERVER...
+DEBUG:root:Starting the translation server
+DEBUG:root:Truecasing server is up
+DEBUG:root:Tokenizer server is up
+DEBUG:root:Segmenter server is up
+DEBUG:root:Detokenizer server is up
+DEBUG:root:3
+DEBUG:root:3.1
+DEBUG:root:4
+DEBUG:root:5
+DEBUG:root:6
+DEBUG:root:7
+DEBUG:root:8
+DEBUG:root:Time2LoadServer: 39.239356 (seconds)
+
+DEBUG:root:Translation request (original): |This is a test.|
+DEBUG:root:Translation request (tokenized): |This is a test .|
+DEBUG:root:Translation request (truecased): |this is a test .|
+DEBUG:root:Translation request (segmented): |this is a test .|
+DEBUG:root:Translation request (detokenized): |Questa è una prova.|
+DEBUG:root:Translation answer: |Questa è una prova.|
+DEBUG:root:Time2Translate: 1.063820 seconds
+DEBUG:root:Translation request (original): |This is AMin, from University of Trento.|
+DEBUG:root:Translation request (tokenized): |This is AMin , from University of Trento .|
+DEBUG:root:Translation request (truecased): |this is Amin , from University of Trento .|
+DEBUG:root:Translation request (segmented): |this is Am@@ in , from University of Tr@@ ento .|
+DEBUG:root:Translation request (detokenized): |Questa è Amin, dall' Università di Trento.|
+DEBUG:root:Translation answer: |Questa è Amin, dall' Università di Trento.|
+DEBUG:root:Time2Translate: 1.882886 seconds
+DEBUG:root:Starting TRANSLATE.PY
+DEBUG:root:SERVER MODE: True
+DEBUG:root:IF_SERVERMODE
+DEBUG:root:INIT, STARTING THE TRANSLATION SERVER...
+DEBUG:root:Starting the translation server
+DEBUG:root:Truecasing server is up
+DEBUG:root:Tokenizer server is up
+DEBUG:root:Segmenter server is up
+DEBUG:root:Detokenizer server is up
+DEBUG:root:3
+DEBUG:root:3.1
+DEBUG:root:4
+DEBUG:root:5
+DEBUG:root:6
+DEBUG:root:7
+DEBUG:root:8
+DEBUG:root:Time2LoadServer: 42.381757 (seconds)
+
+DEBUG:root:Translation request (original): |This is AMin, from University of Trento.|
+DEBUG:root:Translation request (tokenized): |This is AMin , from University of Trento .|
+DEBUG:root:Translation request (truecased): |this is Amin , from University of Trento .|
+DEBUG:root:Translation request (segmented): |this is Am@@ in , from University of Tr@@ ento .|
+DEBUG:root:Translation request (detokenized): |Questa è Amin, dall'Università di Trento.|
+DEBUG:root:Translation answer: |Questa è Amin, dall'Università di Trento.|
+DEBUG:root:Time2Translate: 1.972202 seconds
+DEBUG:root:Translation request (original): |This is Mattia, from university of Trento.|
+DEBUG:root:Translation request (tokenized): |This is Mattia , from university of Trento .|
+DEBUG:root:Translation request (truecased): |this is Mattia , from university of Trento .|
+DEBUG:root:Translation request (segmented): |this is Matt@@ ia , from university of Tr@@ ento .|
+DEBUG:root:Translation request (detokenized): |Questa è Mattia, dall'università di Trento.|
+DEBUG:root:Translation answer: |Questa è Mattia, dall'università di Trento.|
+DEBUG:root:Time2Translate: 1.926795 seconds
+DEBUG:root:Starting TRANSLATE.PY
+DEBUG:root:SERVER MODE: True
+DEBUG:root:IF_SERVERMODE
+DEBUG:root:INIT, STARTING THE TRANSLATION SERVER...
+DEBUG:root:Starting the translation server
+DEBUG:root:Truecasing server is up
+DEBUG:root:Tokenizer server is up
+DEBUG:root:Segmenter server is up
+DEBUG:root:Detokenizer server is up
+DEBUG:root:3
+DEBUG:root:3.1
+DEBUG:root:4
+DEBUG:root:5
+DEBUG:root:6
+DEBUG:root:7
+DEBUG:root:8
+DEBUG:root:Time2LoadServer: 30.059049 (seconds)
+
+DEBUG:root:Translation request (original): |This is AMin, from University of Trento.|
+DEBUG:root:Translation request (tokenized): |This is AMin , from University of Trento .|
+DEBUG:root:Translation request (truecased): |this is Amin , from University of Trento .|
+DEBUG:root:Translation request (segmented): |this is Am@@ in , from University of Tr@@ ento .|
+DEBUG:root:Translation request (detokenized): |Questa è Amin, dall'Università di Trento.|
+DEBUG:root:Translation answer: |Questa è Amin, dall'Università di Trento.|
+DEBUG:root:Time2Translate: 1.893059 seconds
+DEBUG:root:Translation request (original): |This is Mattia, from University of Trento.|
+DEBUG:root:Translation request (tokenized): |This is Mattia , from University of Trento .|
+DEBUG:root:Translation request (truecased): |this is Mattia , from University of Trento .|
+DEBUG:root:Translation request (segmented): |this is Matt@@ ia , from University of Tr@@ ento .|
+DEBUG:root:Translation request (detokenized): |Questa è Mattia, dall'Università di Trento.|
+DEBUG:root:Translation answer: |Questa è Mattia, dall'Università di Trento.|
+DEBUG:root:Time2Translate: 2.046505 seconds
+DEBUG:root:Translation request (original): |This is Rajen, from University of Trento.|
+DEBUG:root:Translation request (tokenized): |This is Rajen , from University of Trento .|
+DEBUG:root:Translation request (truecased): |this is Rajen , from University of Trento .|
+DEBUG:root:Translation request (segmented): |this is Raj@@ en , from University of Tr@@ ento .|
+DEBUG:root:Translation request (detokenized): |Questo è Rajen, dall'Università di Trento.|
+DEBUG:root:Translation answer: |Questo è Rajen, dall'Università di Trento.|
+DEBUG:root:Time2Translate: 1.907231 seconds
+DEBUG:root:Translation request (original): |This is Duygu, from University of Trento.|
+DEBUG:root:Translation request (tokenized): |This is Duygu , from University of Trento .|
+DEBUG:root:Translation request (truecased): |this is Duygu , from University of Trento .|
+DEBUG:root:Translation request (segmented): |this is Du@@ y@@ gu , from University of Tr@@ ento .|
+DEBUG:root:Translation request (detokenized): |Questo è Duygu, dall'Università di Trento.|
+DEBUG:root:Translation answer: |Questo è Duygu, dall'Università di Trento.|
+DEBUG:root:Time2Translate: 2.107235 seconds
+DEBUG:root:Translation request (original): |This is Serra, from University of Trento.|
+DEBUG:root:Translation request (tokenized): |This is Serra , from University of Trento .|
+DEBUG:root:Translation request (truecased): |this is Serra , from University of Trento .|
+DEBUG:root:Translation request (segmented): |this is Serra , from University of Tr@@ ento .|
+DEBUG:root:Translation request (detokenized): |Questa è Serra, dall'Università di Trento.|
+DEBUG:root:Translation answer: |Questa è Serra, dall'Università di Trento.|
+DEBUG:root:Time2Translate: 1.769648 seconds
+DEBUG:root:Translation request (original): |This is Rajen, from University of Trento.|
+DEBUG:root:Translation request (tokenized): |This is Rajen , from University of Trento .|
+DEBUG:root:Translation request (truecased): |this is Rajen , from University of Trento .|
+DEBUG:root:Translation request (segmented): |this is Raj@@ en , from University of Tr@@ ento .|
+DEBUG:root:Translation request (detokenized): |Questo è Rajen, dall'Università di Trento.|
+DEBUG:root:Translation answer: |Questo è Rajen, dall'Università di Trento.|
+DEBUG:root:Time2Translate: 1.893019 seconds
+DEBUG:root:Translation request (original): |This is Rajen, she is from University of Trento.|
+DEBUG:root:Translation request (tokenized): |This is Rajen , she is from University of Trento .|
+DEBUG:root:Translation request (truecased): |this is Rajen , she is from University of Trento .|
+DEBUG:root:Translation request (segmented): |this is Raj@@ en , she is from University of Tr@@ ento .|
+DEBUG:root:Translation request (detokenized): |Questo è Rajen, è dall'Università di Trento.|
+DEBUG:root:Translation answer: |Questo è Rajen, è dall'Università di Trento.|
+DEBUG:root:Time2Translate: 2.081196 seconds
+DEBUG:root:Translation request (original): |This is Rajen; she is from University of Trento.|
+DEBUG:root:Translation request (tokenized): |This is Rajen ; she is from University of Trento .|
+DEBUG:root:Translation request (truecased): |this is Rajen ; she is from University of Trento .|
+DEBUG:root:Translation request (segmented): |this is Raj@@ en ; she is from University of Tr@@ ento .|
+DEBUG:root:Translation request (detokenized): |Questo è Rajen, è dall'Università di Trento.|
+DEBUG:root:Translation answer: |Questo è Rajen, è dall'Università di Trento.|
+DEBUG:root:Time2Translate: 2.097730 seconds
+DEBUG:root:Translation request (original): |She is Rajen; she is from University of Trento.|
+DEBUG:root:Translation request (tokenized): |She is Rajen ; she is from University of Trento .|
+DEBUG:root:Translation request (truecased): |she is Rajen ; she is from University of Trento .|
+DEBUG:root:Translation request (segmented): |she is Raj@@ en ; she is from University of Tr@@ ento .|
+DEBUG:root:Translation request (detokenized): |Lei è Rajen, è dall'Università di Trento.|
+DEBUG:root:Translation answer: |Lei è Rajen, è dall'Università di Trento.|
+DEBUG:root:Time2Translate: 2.058407 seconds
+DEBUG:root:Translation request (original): |She is Rajen. she is from University of Trento.|
+DEBUG:root:Translation request (tokenized): |She is Rajen. she is from University of Trento .|
+DEBUG:root:Translation request (truecased): |she is Rajen. she is from University of Trento .|
+DEBUG:root:Translation request (segmented): |she is Raj@@ en@@ . she is from University of Tr@@ ento .|
+DEBUG:root:Translation request (detokenized): |Lei è Rajen, è dall'Università di Trento.|
+DEBUG:root:Translation answer: |Lei è Rajen, è dall'Università di Trento.|
+DEBUG:root:Time2Translate: 2.097122 seconds
+DEBUG:root:Translation request (original): |This is Surafel. she is from University of Trento.|
+DEBUG:root:Translation request (tokenized): |This is Surafel. she is from University of Trento .|
+DEBUG:root:Translation request (truecased): |this is Surafel. she is from University of Trento .|
+DEBUG:root:Translation request (segmented): |this is Sur@@ af@@ el@@ . she is from University of Tr@@ ento .|
+DEBUG:root:Translation request (detokenized): |Questa è Surafel. È dall'Università di Trento.|
+DEBUG:root:Translation answer: |Questa è Surafel. È dall'Università di Trento.|
+DEBUG:root:Time2Translate: 2.341220 seconds
+DEBUG:root:Translation request (original): |This is Surafel, from University of Trento.|
+DEBUG:root:Translation request (tokenized): |This is Surafel , from University of Trento .|
+DEBUG:root:Translation request (truecased): |this is Surafel , from University of Trento .|
+DEBUG:root:Translation request (segmented): |this is Sur@@ af@@ el , from University of Tr@@ ento .|
+DEBUG:root:Translation request (detokenized): |Questo è Surafel, dall'Università di Trento.|
+DEBUG:root:Translation answer: |Questo è Surafel, dall'Università di Trento.|
+DEBUG:root:Time2Translate: 2.134569 seconds
+DEBUG:root:Translation request (original): |This is Surafel, she is from University of Trento.|
+DEBUG:root:Translation request (tokenized): |This is Surafel , she is from University of Trento .|
+DEBUG:root:Translation request (truecased): |this is Surafel , she is from University of Trento .|
+DEBUG:root:Translation request (segmented): |this is Sur@@ af@@ el , she is from University of Tr@@ ento .|
+DEBUG:root:Translation request (detokenized): |Questo è Surafel, è dall'Università di Trento.|
+DEBUG:root:Translation answer: |Questo è Surafel, è dall'Università di Trento.|
+DEBUG:root:Time2Translate: 2.371598 seconds
+DEBUG:root:Translation request (original): |She is Surafel, from University of Trento.|
+DEBUG:root:Translation request (tokenized): |She is Surafel , from University of Trento .|
+DEBUG:root:Translation request (truecased): |she is Surafel , from University of Trento .|
+DEBUG:root:Translation request (segmented): |she is Sur@@ af@@ el , from University of Tr@@ ento .|
+DEBUG:root:Translation request (detokenized): |È Surafel, dall'Università di Trento.|
+DEBUG:root:Translation answer: |È Surafel, dall'Università di Trento.|
+DEBUG:root:Time2Translate: 2.043321 seconds
+DEBUG:root:Translation request (original): |He is Surafel, from University of Trento.|
+DEBUG:root:Translation request (tokenized): |He is Surafel , from University of Trento .|
+DEBUG:root:Translation request (truecased): |he is Surafel , from University of Trento .|
+DEBUG:root:Translation request (segmented): |he is Sur@@ af@@ el , from University of Tr@@ ento .|
+DEBUG:root:Translation request (detokenized): |È Surafel, dall'Università di Trento.|
+DEBUG:root:Translation answer: |È Surafel, dall'Università di Trento.|
+DEBUG:root:Time2Translate: 2.074132 seconds
+DEBUG:root:Translation request (original): |That is Surafel, from University of Trento.|
+DEBUG:root:Translation request (tokenized): |That is Surafel , from University of Trento .|
+DEBUG:root:Translation request (truecased): |that is Surafel , from University of Trento .|
+DEBUG:root:Translation request (segmented): |that is Sur@@ af@@ el , from University of Tr@@ ento .|
+DEBUG:root:Translation request (detokenized): |Questo è Surafel, dall'Università di Trento.|
+DEBUG:root:Translation answer: |Questo è Surafel, dall'Università di Trento.|
+DEBUG:root:Time2Translate: 2.064513 seconds
+DEBUG:root:Translation request (original): |This is Surafel, from University of Trento.|
+DEBUG:root:Translation request (tokenized): |This is Surafel , from University of Trento .|
+DEBUG:root:Translation request (truecased): |this is Surafel , from University of Trento .|
+DEBUG:root:Translation request (segmented): |this is Sur@@ af@@ el , from University of Tr@@ ento .|
+DEBUG:root:Translation request (detokenized): |Questo è Surafel, dall'Università di Trento.|
+DEBUG:root:Translation answer: |Questo è Surafel, dall'Università di Trento.|
+DEBUG:root:Time2Translate: 2.148851 seconds
+DEBUG:root:Translation request (original): |This is a book.|
+DEBUG:root:Translation request (tokenized): |This is a book .|
+DEBUG:root:Translation request (truecased): |this is a book .|
+DEBUG:root:Translation request (segmented): |this is a book .|
+DEBUG:root:Translation request (detokenized): |Questo è un libro.|
+DEBUG:root:Translation answer: |Questo è un libro.|
+DEBUG:root:Time2Translate: 0.915307 seconds
+DEBUG:root:Translation request (original): |This is a flower.|
+DEBUG:root:Translation request (tokenized): |This is a flower .|
+DEBUG:root:Translation request (truecased): |this is a flower .|
+DEBUG:root:Translation request (segmented): |this is a flower .|
+DEBUG:root:Translation request (detokenized): |Questo è un fiore.|
+DEBUG:root:Translation answer: |Questo è un fiore.|
+DEBUG:root:Time2Translate: 0.939927 seconds
+DEBUG:root:Translation request (original): |This is a pen.|
+DEBUG:root:Translation request (tokenized): |This is a pen .|
+DEBUG:root:Translation request (truecased): |this is a pen .|
+DEBUG:root:Translation request (segmented): |this is a pen .|
+DEBUG:root:Translation request (detokenized): |Questa è una penna.|
+DEBUG:root:Translation answer: |Questa è una penna.|
+DEBUG:root:Time2Translate: 0.879630 seconds
+DEBUG:root:Translation request (original): |This is a pencil.|
+DEBUG:root:Translation request (tokenized): |This is a pencil .|
+DEBUG:root:Translation request (truecased): |this is a pencil .|
+DEBUG:root:Translation request (segmented): |this is a pencil .|
+DEBUG:root:Translation request (detokenized): |Questa è una matita.|
+DEBUG:root:Translation answer: |Questa è una matita.|
+DEBUG:root:Time2Translate: 0.927061 seconds
+DEBUG:root:Translation request (original): |This is a city.|
+DEBUG:root:Translation request (tokenized): |This is a city .|
+DEBUG:root:Translation request (truecased): |this is a city .|
+DEBUG:root:Translation request (segmented): |this is a city .|
+DEBUG:root:Translation request (detokenized): |Questa è una città.|
+DEBUG:root:Translation answer: |Questa è una città.|
+DEBUG:root:Time2Translate: 0.861996 seconds
+DEBUG:root:Translation request (original): |This is a beautiful city.|
+DEBUG:root:Translation request (tokenized): |This is a beautiful city .|
+DEBUG:root:Translation request (truecased): |this is a beautiful city .|
+DEBUG:root:Translation request (segmented): |this is a beautiful city .|
+DEBUG:root:Translation request (detokenized): |Questa è una bellissima città.|
+DEBUG:root:Translation answer: |Questa è una bellissima città.|
+DEBUG:root:Time2Translate: 1.006217 seconds
+DEBUG:root:Translation request (original): |This is a very beautiful city.|
+DEBUG:root:Translation request (tokenized): |This is a very beautiful city .|
+DEBUG:root:Translation request (truecased): |this is a very beautiful city .|
+DEBUG:root:Translation request (segmented): |this is a very beautiful city .|
+DEBUG:root:Translation request (detokenized): |Questa è una città molto bella.|
+DEBUG:root:Translation answer: |Questa è una città molto bella.|
+DEBUG:root:Time2Translate: 1.185080 seconds
+DEBUG:root:Translation request (original): |This is a very modern city.|
+DEBUG:root:Translation request (tokenized): |This is a very modern city .|
+DEBUG:root:Translation request (truecased): |this is a very modern city .|
+DEBUG:root:Translation request (segmented): |this is a very modern city .|
+DEBUG:root:Translation request (detokenized): |Questa è una città molto moderna.|
+DEBUG:root:Translation answer: |Questa è una città molto moderna.|
+DEBUG:root:Time2Translate: 1.177241 seconds
+DEBUG:root:Translation request (original): |This is the city that they went.|
+DEBUG:root:Translation request (tokenized): |This is the city that they went .|
+DEBUG:root:Translation request (truecased): |this is the city that they went .|
+DEBUG:root:Translation request (segmented): |this is the city that they went .|
+DEBUG:root:Translation request (detokenized): |Questa è la città che sono andate.|
+DEBUG:root:Translation answer: |Questa è la città che sono andate.|
+DEBUG:root:Time2Translate: 1.459818 seconds
+DEBUG:root:Translation request (original): |This is the city that they went last year for their honeymoon.|
+DEBUG:root:Translation request (tokenized): |This is the city that they went last year for their honeymoon .|
+DEBUG:root:Translation request (truecased): |this is the city that they went last year for their honeymoon .|
+DEBUG:root:Translation request (segmented): |this is the city that they went last year for their honey@@ moon .|
+DEBUG:root:Translation request (detokenized): |Questa è la città che si è recata l'anno scorso per la luna di miele.|
+DEBUG:root:Translation answer: |Questa è la città che si è recata l'anno scorso per la luna di miele.|
+DEBUG:root:Time2Translate: 2.993004 seconds
+DEBUG:root:Translation request (original): |This is the city that we went last year for their honeymoon.|
+DEBUG:root:Translation request (tokenized): |This is the city that we went last year for their honeymoon .|
+DEBUG:root:Translation request (truecased): |this is the city that we went last year for their honeymoon .|
+DEBUG:root:Translation request (segmented): |this is the city that we went last year for their honey@@ moon .|
+DEBUG:root:Translation request (detokenized): |Questa è la città che abbiamo trascorso lo scorso anno per la luna di miele.|
+DEBUG:root:Translation answer: |Questa è la città che abbiamo trascorso lo scorso anno per la luna di miele.|
+DEBUG:root:Time2Translate: 2.883129 seconds
+DEBUG:root:Translation request (original): |This is the city that we went last year for our honeymoon.|
+DEBUG:root:Translation request (tokenized): |This is the city that we went last year for our honeymoon .|
+DEBUG:root:Translation request (truecased): |this is the city that we went last year for our honeymoon .|
+DEBUG:root:Translation request (segmented): |this is the city that we went last year for our honey@@ moon .|
+DEBUG:root:Translation request (detokenized): |Questa è la città che abbiamo trascorso lo scorso anno per la nostra luna di miele.|
+DEBUG:root:Translation answer: |Questa è la città che abbiamo trascorso lo scorso anno per la nostra luna di miele.|
+DEBUG:root:Time2Translate: 2.864860 seconds
+DEBUG:root:Translation request (original): |This is the city that we went for our honeymoon.|
+DEBUG:root:Translation request (tokenized): |This is the city that we went for our honeymoon .|
+DEBUG:root:Translation request (truecased): |this is the city that we went for our honeymoon .|
+DEBUG:root:Translation request (segmented): |this is the city that we went for our honey@@ moon .|
+DEBUG:root:Translation request (detokenized): |Questa è la città che siamo andati per la luna di miele.|
+DEBUG:root:Translation answer: |Questa è la città che siamo andati per la luna di miele.|
+DEBUG:root:Time2Translate: 2.347242 seconds
+DEBUG:root:Translation request (original): |This is the city that we went for our wedding.|
+DEBUG:root:Translation request (tokenized): |This is the city that we went for our wedding .|
+DEBUG:root:Translation request (truecased): |this is the city that we went for our wedding .|
+DEBUG:root:Translation request (segmented): |this is the city that we went for our wedding .|
+DEBUG:root:Translation request (detokenized): |Questa è la città che siamo andati per il nostro matrimonio.|
+DEBUG:root:Translation answer: |Questa è la città che siamo andati per il nostro matrimonio.|
+DEBUG:root:Time2Translate: 2.113959 seconds
+DEBUG:root:Translation request (original): |This is the city that we went for her wedding.|
+DEBUG:root:Translation request (tokenized): |This is the city that we went for her wedding .|
+DEBUG:root:Translation request (truecased): |this is the city that we went for her wedding .|
+DEBUG:root:Translation request (segmented): |this is the city that we went for her wedding .|
+DEBUG:root:Translation request (detokenized): |Questa è la città che siamo andati per il suo matrimonio.|
+DEBUG:root:Translation answer: |Questa è la città che siamo andati per il suo matrimonio.|
+DEBUG:root:Time2Translate: 2.063692 seconds
+DEBUG:root:Translation request (original): |This is the city that we went for his wedding.|
+DEBUG:root:Translation request (tokenized): |This is the city that we went for his wedding .|
+DEBUG:root:Translation request (truecased): |this is the city that we went for his wedding .|
+DEBUG:root:Translation request (segmented): |this is the city that we went for his wedding .|
+DEBUG:root:Translation request (detokenized): |Questa è la città che siamo andati per il suo matrimonio.|
+DEBUG:root:Translation answer: |Questa è la città che siamo andati per il suo matrimonio.|
+DEBUG:root:Time2Translate: 2.104033 seconds
+DEBUG:root:Translation request (original): |This is the city where we went for his wedding.|
+DEBUG:root:Translation request (tokenized): |This is the city where we went for his wedding .|
+DEBUG:root:Translation request (truecased): |this is the city where we went for his wedding .|
+DEBUG:root:Translation request (segmented): |this is the city where we went for his wedding .|
+DEBUG:root:Translation request (detokenized): |Questa è la città dove siamo andati per il suo matrimonio.|
+DEBUG:root:Translation answer: |Questa è la città dove siamo andati per il suo matrimonio.|
+DEBUG:root:Time2Translate: 2.241028 seconds
+DEBUG:root:Translation request (original): |Today it is fine.|
+DEBUG:root:Translation request (tokenized): |Today it is fine .|
+DEBUG:root:Translation request (truecased): |today it is fine .|
+DEBUG:root:Translation request (segmented): |today it is fine .|
+DEBUG:root:Translation request (detokenized): |Oggi è bene.|
+DEBUG:root:Translation answer: |Oggi è bene.|
+DEBUG:root:Time2Translate: 1.355224 seconds
+DEBUG:root:Translation request (original): |hello new world with sun|
+DEBUG:root:Translation request (tokenized): |hello new world with sun|
+DEBUG:root:Translation request (truecased): |Hello new world with sun|
+DEBUG:root:Translation request (segmented): |Hello new world with sun|
+DEBUG:root:Translation request (detokenized): |Pronto nuovo con il sole|
+DEBUG:root:Translation answer: |Pronto nuovo con il sole|
+DEBUG:root:Time2Translate: 1.097089 seconds
+DEBUG:root:Translation request (original): |This is a test.|
+DEBUG:root:Translation request (tokenized): |This is a test .|
+DEBUG:root:Translation request (truecased): |this is a test .|
+DEBUG:root:Translation request (segmented): |this is a test .|
+DEBUG:root:Translation request (detokenized): |Questa è una prova.|
+DEBUG:root:Translation answer: |Questa è una prova.|
+DEBUG:root:Time2Translate: 1.001484 seconds
+DEBUG:root:Translation request (original): |This is a test.|
+DEBUG:root:Translation request (tokenized): |This is a test .|
+DEBUG:root:Translation request (truecased): |this is a test .|
+DEBUG:root:Translation request (segmented): |this is a test .|
+DEBUG:root:Translation request (detokenized): |Questa è una prova.|
+DEBUG:root:Translation answer: |Questa è una prova.|
+DEBUG:root:Time2Translate: 1.030772 seconds
+DEBUG:root:Translation request (original): |This is another test.|
+DEBUG:root:Translation request (tokenized): |This is another test .|
+DEBUG:root:Translation request (truecased): |this is another test .|
+DEBUG:root:Translation request (segmented): |this is another test .|
+DEBUG:root:Translation request (detokenized): |Questa è un'altra prova.|
+DEBUG:root:Translation answer: |Questa è un'altra prova.|
+DEBUG:root:Time2Translate: 1.195619 seconds
+DEBUG:root:Translation request (original): ||
+DEBUG:root:Translation request (tokenized): ||
+DEBUG:root:Translation request (truecased): ||
+DEBUG:root:Translation request (segmented): ||
+DEBUG:root:Starting TRANSLATE.PY
+DEBUG:root:SERVER MODE: True
+DEBUG:root:IF_SERVERMODE
+DEBUG:root:INIT, STARTING THE TRANSLATION SERVER...
+DEBUG:root:Starting the translation server
+DEBUG:root:Truecasing server is up
+DEBUG:root:Tokenizer server is up
+DEBUG:root:Segmenter server is up
+DEBUG:root:Detokenizer server is up
+DEBUG:root:3
+DEBUG:root:3.1
+DEBUG:root:4
+DEBUG:root:5
+DEBUG:root:6
+DEBUG:root:7
+DEBUG:root:8
+DEBUG:root:Time2LoadServer: 63.01104 (seconds)
+
+DEBUG:root:Translation request (original): |this is a test .|
+DEBUG:root:Translation request (tokenized): |this is a test .|
+DEBUG:root:Translation request (truecased): |this is a test .|
+DEBUG:root:Translation request (segmented): |this is a test .|
+DEBUG:root:Translation request (detokenized): |Questa è una prova.|
+DEBUG:root:Translation answer: |Questa è una prova.|
+DEBUG:root:Time2Translate: 1.066337 seconds
+DEBUG:root:Translation request (original): |this is a test.|
+DEBUG:root:Translation request (tokenized): |this is a test .|
+DEBUG:root:Translation request (truecased): |this is a test .|
+DEBUG:root:Translation request (segmented): |this is a test .|
+DEBUG:root:Translation request (detokenized): |Questa è una prova.|
+DEBUG:root:Translation answer: |Questa è una prova.|
+DEBUG:root:Time2Translate: 1.073437 seconds
+DEBUG:root:Translation request (original): |this is a test.|
+DEBUG:root:Translation request (tokenized): |this is a test .|
+DEBUG:root:Translation request (truecased): |this is a test .|
+DEBUG:root:Translation request (segmented): |this is a test .|
+DEBUG:root:Translation request (detokenized): |Questa è una prova.|
+DEBUG:root:Translation answer: |Questa è una prova.|
+DEBUG:root:Time2Translate: 1.094116 seconds
+DEBUG:root:Translation request (original): |this is another test.|
+DEBUG:root:Translation request (tokenized): |this is another test .|
+DEBUG:root:Translation request (truecased): |this is another test .|
+DEBUG:root:Translation request (segmented): |this is another test .|
+DEBUG:root:Translation request (detokenized): |Questa è un'altra prova.|
+DEBUG:root:Translation answer: |Questa è un'altra prova.|
+DEBUG:root:Time2Translate: 1.336216 seconds
+DEBUG:root:Translation request (original): |Good morning!|
+DEBUG:root:Translation request (tokenized): |Good morning !|
+DEBUG:root:Translation request (truecased): |good morning !|
+DEBUG:root:Translation request (segmented): |good morning !|
+DEBUG:root:Translation request (detokenized): |Buongiorno!|
+DEBUG:root:Translation answer: |Buongiorno!|
+DEBUG:root:Time2Translate: 0.569456 seconds
+DEBUG:root:Translation request (original): |my car is red|
+DEBUG:root:Translation request (tokenized): |my car is red|
+DEBUG:root:Translation request (truecased): |my car is red|
+DEBUG:root:Translation request (segmented): |my car is red|
+DEBUG:root:Translation request (detokenized): |La mia macchina è rossa.|
+DEBUG:root:Translation answer: |La mia macchina è rossa.|
+DEBUG:root:Time2Translate: 1.044148 seconds
+DEBUG:root:Translation request (original): |my car is red|
+DEBUG:root:Translation request (tokenized): |my car is red|
+DEBUG:root:Translation request (truecased): |my car is red|
+DEBUG:root:Translation request (segmented): |my car is red|
+DEBUG:root:Translation request (detokenized): |La mia macchina è rossa.|
+DEBUG:root:Translation answer: |La mia macchina è rossa.|
+DEBUG:root:Time2Translate: 0.895296 seconds
+DEBUG:root:Translation request (original): |I love my dog|
+DEBUG:root:Translation request (tokenized): |I love my dog|
+DEBUG:root:Translation request (truecased): |I love my dog|
+DEBUG:root:Translation request (segmented): |I love my dog|
+DEBUG:root:Translation request (detokenized): |Adoro il mio cane.|
+DEBUG:root:Translation answer: |Adoro il mio cane.|
+DEBUG:root:Time2Translate: 0.824639 seconds
+DEBUG:root:Translation request (original): |A truck plowed into a popular Christmas market near one of Berlin’s prime tourist sites, leaving at least 12 dead in what German authorities described as a “probable terror attack.”|
+DEBUG:root:Translation request (tokenized): |A truck plowed into a popular Christmas market near one of Berlin ’ s prime tourist sites , leaving at least 12 dead in what German authorities described as a “ probable terror attack . ”|
+DEBUG:root:Translation request (truecased): |a truck plowed into a popular Christmas market near one of Berlin ’ s prime tourist sites , leaving at least 12 dead in what German authorities described as a “ probable terror attack . ”|
+DEBUG:root:Translation request (segmented): ||
+DEBUG:root:Starting TRANSLATE.PY
+DEBUG:root:SERVER MODE: True
+DEBUG:root:IF_SERVERMODE
+DEBUG:root:INIT, STARTING THE TRANSLATION SERVER...
+DEBUG:root:Starting the translation server
+DEBUG:root:Truecasing server is up
+DEBUG:root:Tokenizer server is up
+DEBUG:root:Segmenter server is up
+DEBUG:root:Detokenizer server is up
+DEBUG:root:3
+DEBUG:root:3.1
+DEBUG:root:4
+DEBUG:root:5
+DEBUG:root:6
+DEBUG:root:7
+DEBUG:root:8
+DEBUG:root:Time2LoadServer: 30.606998 (seconds)
+
+DEBUG:root:Translation request (original): |this is another test.|
+DEBUG:root:Translation request (tokenized): |this is another test .|
+DEBUG:root:Translation request (truecased): |this is another test .|
+DEBUG:root:Translation request (segmented): |this is another test .|
+DEBUG:root:Translation request (detokenized): |Questa è un'altra prova.|
+DEBUG:root:Translation answer: |Questa è un'altra prova.|
+DEBUG:root:Time2Translate: 1.138699 seconds
+DEBUG:root:Translation request (original): |this is another test.|
+DEBUG:root:Translation request (tokenized): |this is another test .|
+DEBUG:root:Translation request (truecased): |this is another test .|
+DEBUG:root:Translation request (segmented): |this is another test .|
+DEBUG:root:Translation request (detokenized): |Questa è un'altra prova.|
+DEBUG:root:Translation answer: |Questa è un'altra prova.|
+DEBUG:root:Time2Translate: 1.155201 seconds
+DEBUG:root:Translation request (original): |I love my dog|
+DEBUG:root:Translation request (tokenized): |I love my dog|
+DEBUG:root:Translation request (truecased): |I love my dog|
+DEBUG:root:Translation request (segmented): |I love my dog|
+DEBUG:root:Translation request (detokenized): |Adoro il mio cane.|
+DEBUG:root:Translation answer: |Adoro il mio cane.|
+DEBUG:root:Time2Translate: 0.827525 seconds
+DEBUG:root:Translation request (original): |A truck plowed into a popular Christmas market near one of Berlin’s prime tourist sites, leaving at least 12 dead in what German authorities described as a “probable terror attack.”|
+DEBUG:root:Translation request (tokenized): |A truck plowed into a popular Christmas market near one of Berlin ’ s prime tourist sites , leaving at least 12 dead in what German authorities described as a “ probable terror attack . ”|
+DEBUG:root:Translation request (truecased): |a truck plowed into a popular Christmas market near one of Berlin ’ s prime tourist sites , leaving at least 12 dead in what German authorities described as a “ probable terror attack . ”|
+DEBUG:root:Translation request (segmented): ||
+DEBUG:root:Starting TRANSLATE.PY
+DEBUG:root:SERVER MODE: True
+DEBUG:root:IF_SERVERMODE
+DEBUG:root:INIT, STARTING THE TRANSLATION SERVER...
+DEBUG:root:Starting the translation server
+DEBUG:root:Truecasing server is up
+DEBUG:root:Tokenizer server is up
+DEBUG:root:Segmenter server is up
+DEBUG:root:Detokenizer server is up
+DEBUG:root:3
+DEBUG:root:3.1
+DEBUG:root:4
+DEBUG:root:5
+DEBUG:root:6
+DEBUG:root:7
+DEBUG:root:8
+DEBUG:root:Time2LoadServer: 33.553177 (seconds)
+
+DEBUG:root:Translation request (original): |I love my dog|
+DEBUG:root:Translation request (tokenized): |I love my dog|
+DEBUG:root:Translation request (truecased): |I love my dog|
+DEBUG:root:Translation request (segmented): |I love my dog|
+DEBUG:root:Translation request (detokenized): |Adoro il mio cane.|
+DEBUG:root:Translation answer: |Adoro il mio cane.|
+DEBUG:root:Time2Translate: 0.877781 seconds
+DEBUG:root:Translation request (original): |this is another test.|
+DEBUG:root:Translation request (tokenized): |this is another test .|
+DEBUG:root:Translation request (truecased): |this is another test .|
+DEBUG:root:Translation request (segmented): |this is another test .|
+DEBUG:root:Translation request (detokenized): |Questa è un'altra prova.|
+DEBUG:root:Translation answer: |Questa è un'altra prova.|
+DEBUG:root:Time2Translate: 1.145660 seconds
+DEBUG:root:Translation request (original): |A truck plowed into a popular Christmas market near one of Berlin’s prime tourist sites, leaving at least 12 dead in what German authorities described as a “probable terror attack.”|
+DEBUG:root:Translation request (tokenized): |A truck plowed into a popular Christmas market near one of Berlin ’ s prime tourist sites , leaving at least 12 dead in what German authorities described as a “ probable terror attack . ”|
+DEBUG:root:Translation request (truecased): |a truck plowed into a popular Christmas market near one of Berlin ’ s prime tourist sites , leaving at least 12 dead in what German authorities described as a “ probable terror attack . ”|
+DEBUG:root:Translation request (segmented): ||
+DEBUG:root:Starting TRANSLATE.PY
+DEBUG:root:SERVER MODE: True
+DEBUG:root:IF_SERVERMODE
+DEBUG:root:INIT, STARTING THE TRANSLATION SERVER...
+DEBUG:root:Starting the translation server
+DEBUG:root:Truecasing server is up
+DEBUG:root:Tokenizer server is up
+DEBUG:root:Segmenter server is up
+DEBUG:root:Detokenizer server is up
+DEBUG:root:3
+DEBUG:root:3.1
+DEBUG:root:4
+DEBUG:root:5
+DEBUG:root:6
+DEBUG:root:7
+DEBUG:root:8
+DEBUG:root:Time2LoadServer: 28.655597 (seconds)
+
+DEBUG:root:Translation request (original): |A truck plowed into a popular Christmas market near one of Berlin's prime tourist sites, leaving at least 12 dead in what German authorities described as a "probable terror attack."|
+DEBUG:root:Translation request (tokenized): |A truck plowed into a popular Christmas market near one of Berlin &apos; s prime tourist sites , leaving at least 12 dead in what German authorities described as a &quot; probable terror attack . &quot;|
+DEBUG:root:Translation request (truecased): |a truck plowed into a popular Christmas market near one of Berlin &apos; s prime tourist sites , leaving at least 12 dead in what German authorities described as a &quot; probable terror attack . &quot;|
+DEBUG:root:Translation request (segmented): |a truck pl@@ owed into a popular Christmas market near one of Berlin &@@ a@@ pos@@ ; s prime tourist sites , leaving at least 12 dead in what German authorities described as a &@@ quot@@ ; probable terror attack . &@@ quot@@ ;|
+DEBUG:root:Translation request (detokenized): |Un camion in un mercato di Natale popolare vicino a uno dei siti di calcio di Berlino e i primi siti turistici, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un grave attentato terroristico;|
+DEBUG:root:Translation answer: |Un camion in un mercato di Natale popolare vicino a uno dei siti di calcio di Berlino e i primi siti turistici, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un grave attentato terroristico;|
+DEBUG:root:Time2Translate: 9.569072 seconds
+DEBUG:root:Translation request (original): |A truck plowed into a popular Christmas market near one of Berlin's prime tourist sites, leaving at least 12 dead in what German authorities described as a "probable terror attack."|
+DEBUG:root:Translation request (tokenized): |A truck plowed into a popular Christmas market near one of Berlin &apos; s prime tourist sites , leaving at least 12 dead in what German authorities described as a &quot; probable terror attack . &quot;|
+DEBUG:root:Translation request (truecased): |a truck plowed into a popular Christmas market near one of Berlin &apos; s prime tourist sites , leaving at least 12 dead in what German authorities described as a &quot; probable terror attack . &quot;|
+DEBUG:root:Translation request (segmented): |a truck pl@@ owed into a popular Christmas market near one of Berlin &@@ a@@ pos@@ ; s prime tourist sites , leaving at least 12 dead in what German authorities described as a &@@ quot@@ ; probable terror attack . &@@ quot@@ ;|
+DEBUG:root:Translation request (detokenized): |Un camion in un mercato di Natale popolare vicino a uno dei siti di calcio di Berlino e i primi siti turistici, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un grave attentato terroristico;|
+DEBUG:root:Translation answer: |Un camion in un mercato di Natale popolare vicino a uno dei siti di calcio di Berlino e i primi siti turistici, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un grave attentato terroristico;|
+DEBUG:root:Time2Translate: 9.546466 seconds
+DEBUG:root:Translation request (original): |A truck plowed into a popular Christmas market in Berlins, leaving at least 12 dead in what German authorities described as a "probable terror attack."|
+DEBUG:root:Translation request (tokenized): |A truck plowed into a popular Christmas market in Berlins , leaving at least 12 dead in what German authorities described as a &quot; probable terror attack . &quot;|
+DEBUG:root:Translation request (truecased): |a truck plowed into a popular Christmas market in Berlins , leaving at least 12 dead in what German authorities described as a &quot; probable terror attack . &quot;|
+DEBUG:root:Translation request (segmented): |a truck pl@@ owed into a popular Christmas market in Ber@@ lins , leaving at least 12 dead in what German authorities described as a &@@ quot@@ ; probable terror attack . &@@ quot@@ ;|
+DEBUG:root:Translation request (detokenized): |Un camion in un mercato di Natale popolare a Berlin, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un grave attentato terroristico.|
+DEBUG:root:Translation answer: |Un camion in un mercato di Natale popolare a Berlin, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un grave attentato terroristico.|
+DEBUG:root:Time2Translate: 6.672146 seconds
+DEBUG:root:Translation request (original): |A truck plowed into a popular Christmas market in Berlin, leaving at least 12 dead in what German authorities described as a "probable terror attack."|
+DEBUG:root:Translation request (tokenized): |A truck plowed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities described as a &quot; probable terror attack . &quot;|
+DEBUG:root:Translation request (truecased): |a truck plowed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities described as a &quot; probable terror attack . &quot;|
+DEBUG:root:Translation request (segmented): |a truck pl@@ owed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities described as a &@@ quot@@ ; probable terror attack . &@@ quot@@ ;|
+DEBUG:root:Translation request (detokenized): |Un camion in un mercato di Natale popolare a Berlino, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un grave attentato terroristico.|
+DEBUG:root:Translation answer: |Un camion in un mercato di Natale popolare a Berlino, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un grave attentato terroristico.|
+DEBUG:root:Time2Translate: 6.380346 seconds
+DEBUG:root:Translation request (original): |A truck plowed into a popular Christmas market in Berlin, leaving at least 12 dead in what German authorities described as a "probable terror attack."|
+DEBUG:root:Translation request (tokenized): |A truck plowed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities described as a &quot; probable terror attack . &quot;|
+DEBUG:root:Translation request (truecased): |a truck plowed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities described as a &quot; probable terror attack . &quot;|
+DEBUG:root:Translation request (segmented): |a truck pl@@ owed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities described as a &@@ quot@@ ; probable terror attack . &@@ quot@@ ;|
+DEBUG:root:Translation request (detokenized): |Un camion in un mercato di Natale popolare a Berlino, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un grave attentato terroristico.|
+DEBUG:root:Translation answer: |Un camion in un mercato di Natale popolare a Berlino, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un grave attentato terroristico.|
+DEBUG:root:Time2Translate: 6.389408 seconds
+DEBUG:root:Translation request (original): |A truc plowed into a popular Christmas market in Berlin, leaving at least 12 dead in what German authorities described as a "probable terror attack."|
+DEBUG:root:Translation request (tokenized): |A truc plowed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities described as a &quot; probable terror attack . &quot;|
+DEBUG:root:Translation request (truecased): |a truc plowed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities described as a &quot; probable terror attack . &quot;|
+DEBUG:root:Translation request (segmented): |a tru@@ c pl@@ owed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities described as a &@@ quot@@ ; probable terror attack . &@@ quot@@ ;|
+DEBUG:root:Translation request (detokenized): |A Berlino in un mercato di Natale popolare a Berlino, lasciando almeno 12 morti in ciò che le autorità tedesche hanno descritto come un grave attentato terroristico.|
+DEBUG:root:Translation answer: |A Berlino in un mercato di Natale popolare a Berlino, lasciando almeno 12 morti in ciò che le autorità tedesche hanno descritto come un grave attentato terroristico.|
+DEBUG:root:Time2Translate: 6.541782 seconds
+DEBUG:root:Translation request (original): |A truck plowed into a popular Chrismas market in Berlin, leaving at least 12 dead in what German authorities described as a "probable terror attack."|
+DEBUG:root:Translation request (tokenized): |A truck plowed into a popular Chrismas market in Berlin , leaving at least 12 dead in what German authorities described as a &quot; probable terror attack . &quot;|
+DEBUG:root:Translation request (truecased): |a truck plowed into a popular Chrismas market in Berlin , leaving at least 12 dead in what German authorities described as a &quot; probable terror attack . &quot;|
+DEBUG:root:Translation request (segmented): |a truck pl@@ owed into a popular Ch@@ ris@@ mas market in Berlin , leaving at least 12 dead in what German authorities described as a &@@ quot@@ ; probable terror attack . &@@ quot@@ ;|
+DEBUG:root:Translation request (detokenized): |Un camion in un mercato popolare Chrisme a Berlino, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un grave attentato terroristico.|
+DEBUG:root:Translation answer: |Un camion in un mercato popolare Chrisme a Berlino, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un grave attentato terroristico.|
+DEBUG:root:Time2Translate: 6.709772 seconds
+DEBUG:root:Translation request (original): |A truck plowed into a popular Christma market in Berlin, leaving at least 12 dead in what German authorities described as a "probable terror attack."|
+DEBUG:root:Translation request (tokenized): |A truck plowed into a popular Christma market in Berlin , leaving at least 12 dead in what German authorities described as a &quot; probable terror attack . &quot;|
+DEBUG:root:Translation request (truecased): |a truck plowed into a popular Christma market in Berlin , leaving at least 12 dead in what German authorities described as a &quot; probable terror attack . &quot;|
+DEBUG:root:Translation request (segmented): |a truck pl@@ owed into a popular Christ@@ ma market in Berlin , leaving at least 12 dead in what German authorities described as a &@@ quot@@ ; probable terror attack . &@@ quot@@ ;|
+DEBUG:root:Translation request (detokenized): |A Berlino un camion in un mercato popolare di Washington, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un grave attentato terroristico.|
+DEBUG:root:Translation answer: |A Berlino un camion in un mercato popolare di Washington, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un grave attentato terroristico.|
+DEBUG:root:Time2Translate: 6.542453 seconds
+DEBUG:root:Translation request (original): |A truck plowed into a popular Cristmas market in Berlin, leaving at least 12 dead in what German authorities described as a "probable terror attack."|
+DEBUG:root:Translation request (tokenized): |A truck plowed into a popular Cristmas market in Berlin , leaving at least 12 dead in what German authorities described as a &quot; probable terror attack . &quot;|
+DEBUG:root:Translation request (truecased): |a truck plowed into a popular CRISTMAS market in Berlin , leaving at least 12 dead in what German authorities described as a &quot; probable terror attack . &quot;|
+DEBUG:root:Translation request (segmented): |a truck pl@@ owed into a popular CR@@ IST@@ M@@ AS market in Berlin , leaving at least 12 dead in what German authorities described as a &@@ quot@@ ; probable terror attack . &@@ quot@@ ;|
+DEBUG:root:Translation request (detokenized): |Un camion in un mercato popolare di Berlino, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un grave attentato terroristico;|
+DEBUG:root:Translation answer: |Un camion in un mercato popolare di Berlino, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un grave attentato terroristico;|
+DEBUG:root:Time2Translate: 6.072568 seconds
+DEBUG:root:Translation request (original): |A truck plowed into a popular Christmas market in Berlin, leaving at least 12 dead in what German authorities described as a "probable teror attack."|
+DEBUG:root:Translation request (tokenized): |A truck plowed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities described as a &quot; probable teror attack . &quot;|
+DEBUG:root:Translation request (truecased): |a truck plowed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities described as a &quot; probable Teror attack . &quot;|
+DEBUG:root:Translation request (segmented): |a truck pl@@ owed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities described as a &@@ quot@@ ; probable Ter@@ or attack . &@@ quot@@ ;|
+DEBUG:root:Translation request (detokenized): |Un camion in un mercato di Natale popolare a Berlino, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto in un periodo precedente; probabilmente il virus o l'attacco;|
+DEBUG:root:Translation answer: |Un camion in un mercato di Natale popolare a Berlino, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto in un periodo precedente; probabilmente il virus o l'attacco;|
+DEBUG:root:Time2Translate: 6.813570 seconds
+DEBUG:root:Translation request (original): |A truck plowed into a popular Christmas market in Berlin, leaving at least 12 dead in what German authorities described as a "probable terror attak."|
+DEBUG:root:Translation request (tokenized): |A truck plowed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities described as a &quot; probable terror attak . &quot;|
+DEBUG:root:Translation request (truecased): |a truck plowed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities described as a &quot; probable terror attak . &quot;|
+DEBUG:root:Translation request (segmented): |a truck pl@@ owed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities described as a &@@ quot@@ ; probable terror att@@ ak . &@@ quot@@ ;|
+DEBUG:root:Translation request (detokenized): |Un camion in un mercato di Natale popolare a Berlino, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto in un periodo precedente; probabilmente il terrore e il terrore;|
+DEBUG:root:Translation answer: |Un camion in un mercato di Natale popolare a Berlino, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto in un periodo precedente; probabilmente il terrore e il terrore;|
+DEBUG:root:Time2Translate: 7.009027 seconds
+DEBUG:root:Translation request (original): |A truck plowed into a popular Christmas market in Berlin, leaving at least 12 dead in what German autorities described as a "probable terror attack."|
+DEBUG:root:Translation request (tokenized): |A truck plowed into a popular Christmas market in Berlin , leaving at least 12 dead in what German autorities described as a &quot; probable terror attack . &quot;|
+DEBUG:root:Translation request (truecased): |a truck plowed into a popular Christmas market in Berlin , leaving at least 12 dead in what German autorities described as a &quot; probable terror attack . &quot;|
+DEBUG:root:Translation request (segmented): |a truck pl@@ owed into a popular Christmas market in Berlin , leaving at least 12 dead in what German autor@@ ities described as a &@@ quot@@ ; probable terror attack . &@@ quot@@ ;|
+DEBUG:root:Translation request (detokenized): |Un camion in un mercato di Natale popolare a Berlino, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un grave attentato terroristico;|
+DEBUG:root:Translation answer: |Un camion in un mercato di Natale popolare a Berlino, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un grave attentato terroristico;|
+DEBUG:root:Time2Translate: 7.020871 seconds
+DEBUG:root:Translation request (original): |A truck plowed into a popular Christmas market in Berlin, leaving at least 12 dead in what German authorities described as a "probable terror attak."|
+DEBUG:root:Translation request (tokenized): |A truck plowed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities described as a &quot; probable terror attak . &quot;|
+DEBUG:root:Translation request (truecased): |a truck plowed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities described as a &quot; probable terror attak . &quot;|
+DEBUG:root:Translation request (segmented): |a truck pl@@ owed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities described as a &@@ quot@@ ; probable terror att@@ ak . &@@ quot@@ ;|
+DEBUG:root:Translation request (detokenized): |Un camion in un mercato di Natale popolare a Berlino, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto in un periodo precedente; probabilmente il terrore e il terrore;|
+DEBUG:root:Translation answer: |Un camion in un mercato di Natale popolare a Berlino, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto in un periodo precedente; probabilmente il terrore e il terrore;|
+DEBUG:root:Time2Translate: 7.010470 seconds
+DEBUG:root:Translation request (original): |A truck plowed into a popular Christmas market in Berlin, leaving at least 12 dead in what German autorities described as a "probable terror attack."|
+DEBUG:root:Translation request (tokenized): |A truck plowed into a popular Christmas market in Berlin , leaving at least 12 dead in what German autorities described as a &quot; probable terror attack . &quot;|
+DEBUG:root:Translation request (truecased): |a truck plowed into a popular Christmas market in Berlin , leaving at least 12 dead in what German autorities described as a &quot; probable terror attack . &quot;|
+DEBUG:root:Translation request (segmented): |a truck pl@@ owed into a popular Christmas market in Berlin , leaving at least 12 dead in what German autor@@ ities described as a &@@ quot@@ ; probable terror attack . &@@ quot@@ ;|
+DEBUG:root:Translation request (detokenized): |Un camion in un mercato di Natale popolare a Berlino, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un grave attentato terroristico;|
+DEBUG:root:Translation answer: |Un camion in un mercato di Natale popolare a Berlino, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un grave attentato terroristico;|
+DEBUG:root:Time2Translate: 7.032094 seconds
+DEBUG:root:Translation request (original): |A truck plowed into a popular Christmas market in Berlin, leaving at least 12 dead in what German authorities described as a "probable terror attack."|
+DEBUG:root:Translation request (tokenized): |A truck plowed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities described as a &quot; probable terror attack . &quot;|
+DEBUG:root:Translation request (truecased): |a truck plowed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities described as a &quot; probable terror attack . &quot;|
+DEBUG:root:Translation request (segmented): |a truck pl@@ owed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities described as a &@@ quot@@ ; probable terror attack . &@@ quot@@ ;|
+DEBUG:root:Translation request (detokenized): |Un camion in un mercato di Natale popolare a Berlino, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un grave attentato terroristico.|
+DEBUG:root:Translation answer: |Un camion in un mercato di Natale popolare a Berlino, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un grave attentato terroristico.|
+DEBUG:root:Time2Translate: 6.383061 seconds
+DEBUG:root:Translation request (original): |A truck plowed into a popular Christmas market in Berlin, leaving at least 12 dead in what German authorities decribed as a "probable terror attack."|
+DEBUG:root:Translation request (tokenized): |A truck plowed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities decribed as a &quot; probable terror attack . &quot;|
+DEBUG:root:Translation request (truecased): |a truck plowed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities decribed as a &quot; probable terror attack . &quot;|
+DEBUG:root:Translation request (segmented): |a truck pl@@ owed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities dec@@ ribed as a &@@ quot@@ ; probable terror attack . &@@ quot@@ ;|
+DEBUG:root:Translation request (detokenized): |Un camion in un mercato di Natale popolare a Berlino, lasciando almeno 12 morti in quello che le autorità tedesche sono state licenziate come un grave attentato terroristico.|
+DEBUG:root:Translation answer: |Un camion in un mercato di Natale popolare a Berlino, lasciando almeno 12 morti in quello che le autorità tedesche sono state licenziate come un grave attentato terroristico.|
+DEBUG:root:Time2Translate: 6.817575 seconds
+DEBUG:root:Translation request (original): |A truck plowed into a popular Christmas market in Berlin, leaving at least 12 dead in what German authorities described as a "robable terror attack."|
+DEBUG:root:Translation request (tokenized): |A truck plowed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities described as a &quot; robable terror attack . &quot;|
+DEBUG:root:Translation request (truecased): |a truck plowed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities described as a &quot; robable terror attack . &quot;|
+DEBUG:root:Translation request (segmented): |a truck pl@@ owed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities described as a &@@ quot@@ ; rob@@ able terror attack . &@@ quot@@ ;|
+DEBUG:root:Translation request (detokenized): |Un camion in un mercato di Natale popolare a Berlino, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un attacco terroristico; un attentato terroristico;|
+DEBUG:root:Translation answer: |Un camion in un mercato di Natale popolare a Berlino, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un attacco terroristico; un attentato terroristico;|
+DEBUG:root:Time2Translate: 7.359579 seconds
+DEBUG:root:Translation request (original): |A ruck plowed into a popular Christmas market in Berlin, leaving at least 12 dead in what German authorities described as a "probable terror attack."|
+DEBUG:root:Translation request (tokenized): |A ruck plowed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities described as a &quot; probable terror attack . &quot;|
+DEBUG:root:Translation request (truecased): |a ruck plowed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities described as a &quot; probable terror attack . &quot;|
+DEBUG:root:Translation request (segmented): |a ru@@ ck pl@@ owed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities described as a &@@ quot@@ ; probable terror attack . &@@ quot@@ ;|
+DEBUG:root:Translation request (detokenized): |A Berlino, a Berlino, un braccio di ruck, che ha lasciato almeno 12 morti in quello che le autorità tedesche hanno descritto come un grave attentato terroristico; il più probabile attacco terroristico;|
+DEBUG:root:Translation answer: |A Berlino, a Berlino, un braccio di ruck, che ha lasciato almeno 12 morti in quello che le autorità tedesche hanno descritto come un grave attentato terroristico; il più probabile attacco terroristico;|
+DEBUG:root:Time2Translate: 7.061135 seconds
+DEBUG:root:Translation request (original): |A truck plowed into a popular Christmas market in Berlin, leaving at least 12 dead in what German authorities described as a "probable terror attack."|
+DEBUG:root:Translation request (tokenized): |A truck plowed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities described as a &quot; probable terror attack . &quot;|
+DEBUG:root:Translation request (truecased): |a truck plowed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities described as a &quot; probable terror attack . &quot;|
+DEBUG:root:Translation request (segmented): |a truck pl@@ owed into a popular Christmas market in Berlin , leaving at least 12 dead in what German authorities described as a &@@ quot@@ ; probable terror attack . &@@ quot@@ ;|
+DEBUG:root:Translation request (detokenized): |Un camion in un mercato di Natale popolare a Berlino, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un grave attentato terroristico.|
+DEBUG:root:Translation answer: |Un camion in un mercato di Natale popolare a Berlino, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un grave attentato terroristico.|
+DEBUG:root:Time2Translate: 6.365464 seconds
+DEBUG:root:Translation request (original): |A young Turkish policeman, railing about Russia's role in Syria's bloody war, shot and killed Moscow's ambassador to Ankara during an art opening Monday night, an attack that all three countries termed an act of terror.|
+DEBUG:root:Translation request (tokenized): |A young Turkish policeman , railing about Russia &apos; s role in Syria &apos; s bloody war , shot and killed Moscow &apos; s ambassador to Ankara during an art opening Monday night , an attack that all three countries termed an act of terror .|
+DEBUG:root:Translation request (truecased): |a young Turkish policeman , railing about Russia &apos; s role in Syria &apos; s bloody war , shot and killed Moscow &apos; s ambassador to Ankara during an art opening Monday night , an attack that all three countries termed an act of terror .|
+DEBUG:root:Translation request (segmented): |a young Turkish policeman , rail@@ ing about Russia &@@ a@@ pos@@ ; s role in Syria &@@ a@@ pos@@ ; s bloody war , shot and killed Moscow &@@ a@@ pos@@ ; s ambassador to Ankara during an art opening Monday night , an attack that all three countries termed an act of terror .|
+DEBUG:root:Translation request (detokenized): |Un giovane poliziotto turco, le ferrovie in merito al ruolo della Russia in Siria, la sanguinosa guerra, l'ambasciatore di Mosca e l'ambasciatore di Mosca ad Ankara durante l'inaugurazione di un'arte di lunedì sera, un attacco che tutti i tre paesi hanno definito un atto di terrore.|
+DEBUG:root:Translation answer: |Un giovane poliziotto turco, le ferrovie in merito al ruolo della Russia in Siria, la sanguinosa guerra, l'ambasciatore di Mosca e l'ambasciatore di Mosca ad Ankara durante l'inaugurazione di un'arte di lunedì sera, un attacco che tutti i tre paesi hanno definito un atto di terrore.|
+DEBUG:root:Time2Translate: 12.812626 seconds
+DEBUG:root:Translation request (original): |The plight of thousands of migrants putting their lives in peril to cross the Mediterranean has shocked. It is clear that no EU country can or should be left alone to address huge migratory pressures.|
+DEBUG:root:Translation request (tokenized): |The plight of thousands of migrants putting their lives in peril to cross the Mediterranean has shocked . It is clear that no EU country can or should be left alone to address huge migratory pressures .|
+DEBUG:root:Translation request (truecased): |the plight of thousands of migrants putting their lives in peril to cross the Mediterranean has shocked . it is clear that no EU country can or should be left alone to address huge migratory pressures .|
+DEBUG:root:Translation request (segmented): |the plight of thousands of migrants putting their lives in peril to cross the Mediterranean has shocked . it is clear that no EU country can or should be left alone to address huge migratory pressures .|
+DEBUG:root:Translation request (detokenized): |La situazione di migliaia di migranti che mettono in pericolo la loro vita in pericolo di attraversare il Mediterraneo è sconvolta; è chiaro che nessun paese europeo può o deve essere lasciato da soli per affrontare enormi pressioni migratorie.|
+DEBUG:root:Translation answer: |La situazione di migliaia di migranti che mettono in pericolo la loro vita in pericolo di attraversare il Mediterraneo è sconvolta; è chiaro che nessun paese europeo può o deve essere lasciato da soli per affrontare enormi pressioni migratorie.|
+DEBUG:root:Time2Translate: 8.458954 seconds
+DEBUG:root:Translation request (original): |The plight of thousands of migrants putting their lives in peril to cross the Mediterranean has shocked.|
+DEBUG:root:Translation request (tokenized): |The plight of thousands of migrants putting their lives in peril to cross the Mediterranean has shocked .|
+DEBUG:root:Translation request (truecased): |the plight of thousands of migrants putting their lives in peril to cross the Mediterranean has shocked .|
+DEBUG:root:Translation request (segmented): |the plight of thousands of migrants putting their lives in peril to cross the Mediterranean has shocked .|
+DEBUG:root:Translation request (detokenized): |La situazione di migliaia di migranti che mettono in pericolo la loro vita in pericolo di attraversare il Mediterraneo è sconvolta.|
+DEBUG:root:Translation answer: |La situazione di migliaia di migranti che mettono in pericolo la loro vita in pericolo di attraversare il Mediterraneo è sconvolta.|
+DEBUG:root:Time2Translate: 3.846411 seconds
+DEBUG:root:Translation request (original): |today I'm very happy because I don't have to work|
+DEBUG:root:Translation request (tokenized): |today I &apos; m very happy because I don &apos; t have to work|
+DEBUG:root:Translation request (truecased): |today I &apos; m very happy because I don &apos; t have to work|
+DEBUG:root:Translation request (segmented): |today I &@@ a@@ pos@@ ; m very happy because I don &@@ a@@ pos@@ ; t have to work|
+DEBUG:root:Translation request (detokenized): |Oggi ho la coposina; m molto felice perché non mi piace, ma devo lavorare.|
+DEBUG:root:Translation answer: |Oggi ho la coposina; m molto felice perché non mi piace, ma devo lavorare.|
+DEBUG:root:Time2Translate: 3.439891 seconds
+DEBUG:root:Translation request (original): |Today I'm very happy because I don't have to work|
+DEBUG:root:Translation request (tokenized): |Today I &apos; m very happy because I don &apos; t have to work|
+DEBUG:root:Translation request (truecased): |today I &apos; m very happy because I don &apos; t have to work|
+DEBUG:root:Translation request (segmented): |today I &@@ a@@ pos@@ ; m very happy because I don &@@ a@@ pos@@ ; t have to work|
+DEBUG:root:Translation request (detokenized): |Oggi ho la coposina; m molto felice perché non mi piace, ma devo lavorare.|
+DEBUG:root:Translation answer: |Oggi ho la coposina; m molto felice perché non mi piace, ma devo lavorare.|
+DEBUG:root:Time2Translate: 3.435547 seconds
+DEBUG:root:Translation request (original): |Today I'm very happy because I don't have to work.|
+DEBUG:root:Translation request (tokenized): |Today I &apos; m very happy because I don &apos; t have to work .|
+DEBUG:root:Translation request (truecased): |today I &apos; m very happy because I don &apos; t have to work .|
+DEBUG:root:Translation request (segmented): |today I &@@ a@@ pos@@ ; m very happy because I don &@@ a@@ pos@@ ; t have to work .|
+DEBUG:root:Translation request (detokenized): |Oggi ho la coposina. m molto felice perché non mi piace, ma devo lavorare.|
+DEBUG:root:Translation answer: |Oggi ho la coposina. m molto felice perché non mi piace, ma devo lavorare.|
+DEBUG:root:Time2Translate: 3.641075 seconds
+DEBUG:root:Translation request (original): |Today I'm very happy, because I don't have to work.|
+DEBUG:root:Translation request (tokenized): |Today I &apos; m very happy , because I don &apos; t have to work .|
+DEBUG:root:Translation request (truecased): |today I &apos; m very happy , because I don &apos; t have to work .|
+DEBUG:root:Translation request (segmented): |today I &@@ a@@ pos@@ ; m very happy , because I don &@@ a@@ pos@@ ; t have to work .|
+DEBUG:root:Translation request (detokenized): |Oggi ho la coposina, e molto felice, perché non mi piace, ma devo lavorare.|
+DEBUG:root:Translation answer: |Oggi ho la coposina, e molto felice, perché non mi piace, ma devo lavorare.|
+DEBUG:root:Time2Translate: 3.869646 seconds
+DEBUG:root:Translation request (original): |Today I am very happy, because I don't have to work.|
+DEBUG:root:Translation request (tokenized): |Today I am very happy , because I don &apos; t have to work .|
+DEBUG:root:Translation request (truecased): |today I am very happy , because I don &apos; t have to work .|
+DEBUG:root:Translation request (segmented): |today I am very happy , because I don &@@ a@@ pos@@ ; t have to work .|
+DEBUG:root:Translation request (detokenized): |Oggi sono molto felice, perché non mi piace, ma devo lavorare.|
+DEBUG:root:Translation answer: |Oggi sono molto felice, perché non mi piace, ma devo lavorare.|
+DEBUG:root:Time2Translate: 2.598248 seconds
+DEBUG:root:Translation request (original): |Today I am very happy, because I do not have to work.|
+DEBUG:root:Translation request (tokenized): |Today I am very happy , because I do not have to work .|
+DEBUG:root:Translation request (truecased): |today I am very happy , because I do not have to work .|
+DEBUG:root:Translation request (segmented): |today I am very happy , because I do not have to work .|
+DEBUG:root:Translation request (detokenized): |Oggi sono molto felice, perché non devo lavorare.|
+DEBUG:root:Translation answer: |Oggi sono molto felice, perché non devo lavorare.|
+DEBUG:root:Time2Translate: 1.915979 seconds
+DEBUG:root:Translation request (original): |Today I'm very happy, because I do not have to work.|
+DEBUG:root:Translation request (tokenized): |Today I &apos; m very happy , because I do not have to work .|
+DEBUG:root:Translation request (truecased): |today I &apos; m very happy , because I do not have to work .|
+DEBUG:root:Translation request (segmented): |today I &@@ a@@ pos@@ ; m very happy , because I do not have to work .|
+DEBUG:root:Translation request (detokenized): |Oggi ho votato a favore, ma molto felice, perché non devo lavorare.|
+DEBUG:root:Translation answer: |Oggi ho votato a favore, ma molto felice, perché non devo lavorare.|
+DEBUG:root:Time2Translate: 2.789299 seconds
+DEBUG:root:Translation request (original): |Today I am veeeery happy, because I do not have to work.|
+DEBUG:root:Translation request (tokenized): |Today I am veeeery happy , because I do not have to work .|
+DEBUG:root:Translation request (truecased): |today I am veeeery happy , because I do not have to work .|
+DEBUG:root:Translation request (segmented): |today I am ve@@ ee@@ ery happy , because I do not have to work .|
+DEBUG:root:Translation request (detokenized): |Oggi sono molto felice, perché non devo lavorare.|
+DEBUG:root:Translation answer: |Oggi sono molto felice, perché non devo lavorare.|
+DEBUG:root:Time2Translate: 1.924480 seconds
+DEBUG:root:Translation request (original): |Today I'm veeeery happy, because I do not have to work.|
+DEBUG:root:Translation request (tokenized): |Today I &apos; m veeeery happy , because I do not have to work .|
+DEBUG:root:Translation request (truecased): |today I &apos; m veeeery happy , because I do not have to work .|
+DEBUG:root:Translation request (segmented): |today I &@@ a@@ pos@@ ; m ve@@ ee@@ ery happy , because I do not have to work .|
+DEBUG:root:Translation request (detokenized): |Oggi ho votato a favore, ma sono felice, perché non ho bisogno di lavorare.|
+DEBUG:root:Translation answer: |Oggi ho votato a favore, ma sono felice, perché non ho bisogno di lavorare.|
+DEBUG:root:Time2Translate: 2.758975 seconds
+DEBUG:root:Translation request (original): |Today I am sorry happy, because I do not have to work.|
+DEBUG:root:Translation request (tokenized): |Today I am sorry happy , because I do not have to work .|
+DEBUG:root:Translation request (truecased): |today I am sorry happy , because I do not have to work .|
+DEBUG:root:Translation request (segmented): |today I am sorry happy , because I do not have to work .|
+DEBUG:root:Translation request (detokenized): |Oggi mi dispiace, perché non devo lavorare.|
+DEBUG:root:Translation answer: |Oggi mi dispiace, perché non devo lavorare.|
+DEBUG:root:Time2Translate: 1.874570 seconds
+DEBUG:root:Translation request (original): |heeeello|
+DEBUG:root:Translation request (tokenized): |heeeello|
+DEBUG:root:Translation request (truecased): |heeeello|
+DEBUG:root:Translation request (segmented): |he@@ ee@@ ello|
+DEBUG:root:Translation request (detokenized): |DICHIARAZIONI DI APPLICAZIONE|
+DEBUG:root:Translation answer: |DICHIARAZIONI DI APPLICAZIONE|
+DEBUG:root:Time2Translate: 0.458442 seconds
+DEBUG:root:Translation request (original): |Hello, I am at the demo day of FBK and I ate a very good pandoro.|
+DEBUG:root:Translation request (tokenized): |Hello , I am at the demo day of FBK and I ate a very good pandoro .|
+DEBUG:root:Translation request (truecased): |Hello , I am at the demo day of FBK and I ate a very good pandoro .|
+DEBUG:root:Translation request (segmented): |Hello , I am at the demo day of F@@ B@@ K and I ate a very good p@@ and@@ oro .|
+DEBUG:root:Translation request (detokenized): |Salve, sono al primo giorno di FBK e ho mangiato un bravo pandoro.|
+DEBUG:root:Translation answer: |Salve, sono al primo giorno di FBK e ho mangiato un bravo pandoro.|
+DEBUG:root:Time2Translate: 3.451984 seconds
+DEBUG:root:Translation request (original): |Heeeeello|
+DEBUG:root:Translation request (tokenized): |Heeeeello|
+DEBUG:root:Translation request (truecased): |Heeeeello|
+DEBUG:root:Translation request (segmented): |He@@ ee@@ e@@ ello|
+DEBUG:root:Translation request (detokenized): |Heen eello|
+DEBUG:root:Translation answer: |Heen eello|
+DEBUG:root:Time2Translate: 0.638688 seconds
+DEBUG:root:Translation request (original): |Heeeello|
+DEBUG:root:Translation request (tokenized): |Heeeello|
+DEBUG:root:Translation request (truecased): |Heeeello|
+DEBUG:root:Translation request (segmented): |He@@ ee@@ ello|
+DEBUG:root:Translation request (detokenized): |Hees ello|
+DEBUG:root:Translation answer: |Hees ello|
+DEBUG:root:Time2Translate: 0.485164 seconds
+DEBUG:root:Translation request (original): |Heeello|
+DEBUG:root:Translation request (tokenized): |Heeello|
+DEBUG:root:Translation request (truecased): |Heeello|
+DEBUG:root:Translation request (segmented): |He@@ e@@ ello|
+DEBUG:root:Translation request (detokenized): |Heeello|
+DEBUG:root:Translation answer: |Heeello|
+DEBUG:root:Time2Translate: 0.520175 seconds
+DEBUG:root:Translation request (original): |Heello|
+DEBUG:root:Translation request (tokenized): |Heello|
+DEBUG:root:Translation request (truecased): |Heello|
+DEBUG:root:Translation request (segmented): |He@@ ello|
+DEBUG:root:Translation request (detokenized): |Heello|
+DEBUG:root:Translation answer: |Heello|
+DEBUG:root:Time2Translate: 0.371617 seconds
+DEBUG:root:Translation request (original): |Heello|
+DEBUG:root:Translation request (tokenized): |Heello|
+DEBUG:root:Translation request (truecased): |Heello|
+DEBUG:root:Translation request (segmented): |He@@ ello|
+DEBUG:root:Translation request (detokenized): |Heello|
+DEBUG:root:Translation answer: |Heello|
+DEBUG:root:Time2Translate: 0.376656 seconds
+DEBUG:root:Translation request (original): |Heeeeello|
+DEBUG:root:Translation request (tokenized): |Heeeeello|
+DEBUG:root:Translation request (truecased): |Heeeeello|
+DEBUG:root:Translation request (segmented): |He@@ ee@@ e@@ ello|
+DEBUG:root:Translation request (detokenized): |Heen eello|
+DEBUG:root:Translation answer: |Heen eello|
+DEBUG:root:Time2Translate: 0.630888 seconds
+DEBUG:root:Translation request (original): |Heeeeeello|
+DEBUG:root:Translation request (tokenized): |Heeeeeello|
+DEBUG:root:Translation request (truecased): |Heeeeeello|
+DEBUG:root:Translation request (segmented): |He@@ ee@@ ee@@ ello|
+DEBUG:root:Translation request (detokenized): |Heetaitello|
+DEBUG:root:Translation answer: |Heetaitello|
+DEBUG:root:Time2Translate: 0.634840 seconds
+DEBUG:root:Translation request (original): |Heeeeeeeeeello|
+DEBUG:root:Translation request (tokenized): |Heeeeeeeeeello|
+DEBUG:root:Translation request (truecased): |Heeeeeeeeeello|
+DEBUG:root:Translation request (segmented): |He@@ ee@@ ee@@ ee@@ ee@@ ello|
+DEBUG:root:Translation request (detokenized): |Heassi van Verordening (EF) n.|
+DEBUG:root:Translation answer: |Heassi van Verordening (EF) n.|
+DEBUG:root:Time2Translate: 1.150631 seconds
+DEBUG:root:Translation request (original): |Cristmas|
+DEBUG:root:Translation request (tokenized): |Cristmas|
+DEBUG:root:Translation request (truecased): |CRISTMAS|
+DEBUG:root:Translation request (segmented): |CR@@ IST@@ M@@ AS|
+DEBUG:root:Translation request (detokenized): |CRMAS|
+DEBUG:root:Translation answer: |CRMAS|
+DEBUG:root:Time2Translate: 0.588738 seconds
+DEBUG:root:Translation request (original): |Christmas|
+DEBUG:root:Translation request (tokenized): |Christmas|
+DEBUG:root:Translation request (truecased): |Christmas|
+DEBUG:root:Translation request (segmented): |Christmas|
+DEBUG:root:Translation request (detokenized): |Natale|
+DEBUG:root:Translation answer: |Natale|
+DEBUG:root:Time2Translate: 0.322912 seconds
+DEBUG:root:Translation request (original): |Good afternoon|
+DEBUG:root:Translation request (tokenized): |Good afternoon|
+DEBUG:root:Translation request (truecased): |good afternoon|
+DEBUG:root:Translation request (segmented): |good afternoon|
+DEBUG:root:Translation request (detokenized): |Bene.|
+DEBUG:root:Translation answer: |Bene.|
+DEBUG:root:Time2Translate: 0.373846 seconds
+DEBUG:root:Translation request (original): |Good afternoon, I am here!|
+DEBUG:root:Translation request (tokenized): |Good afternoon , I am here !|
+DEBUG:root:Translation request (truecased): |good afternoon , I am here !|
+DEBUG:root:Translation request (segmented): |good afternoon , I am here !|
+DEBUG:root:Translation request (detokenized): |Buon pomeriggio, sono qui!|
+DEBUG:root:Translation answer: |Buon pomeriggio, sono qui!|
+DEBUG:root:Time2Translate: 0.869276 seconds
+DEBUG:root:Translation request (original): |Good afternon, I am here!|
+DEBUG:root:Translation request (tokenized): |Good afternon , I am here !|
+DEBUG:root:Translation request (truecased): |good afternon , I am here !|
+DEBUG:root:Translation request (segmented): |good after@@ non , I am here !|
+DEBUG:root:Translation request (detokenized): |Bene, non sono qui!|
+DEBUG:root:Translation answer: |Bene, non sono qui!|
+DEBUG:root:Time2Translate: 0.908707 seconds
+DEBUG:root:Translation request (original): |Merry Chrismas and happy new year!|
+DEBUG:root:Translation request (tokenized): |Merry Chrismas and happy new year !|
+DEBUG:root:Translation request (truecased): |Merry Chrismas and happy new year !|
+DEBUG:root:Translation request (segmented): |Merry Ch@@ ris@@ mas and happy new year !|
+DEBUG:root:Translation request (detokenized): |Buon lavoro e felice anno!|
+DEBUG:root:Translation answer: |Buon lavoro e felice anno!|
+DEBUG:root:Time2Translate: 1.185493 seconds
+DEBUG:root:Translation request (original): |Merry Christmas and happy new year!|
+DEBUG:root:Translation request (tokenized): |Merry Christmas and happy new year !|
+DEBUG:root:Translation request (truecased): |Merry Christmas and happy new year !|
+DEBUG:root:Translation request (segmented): |Merry Christmas and happy new year !|
+DEBUG:root:Translation request (detokenized): |Buon Natale e felice anno!|
+DEBUG:root:Translation answer: |Buon Natale e felice anno!|
+DEBUG:root:Time2Translate: 1.124895 seconds
+DEBUG:root:Translation request (original): |Merry Cristmas and happy new year!|
+DEBUG:root:Translation request (tokenized): |Merry Cristmas and happy new year !|
+DEBUG:root:Translation request (truecased): |Merry CRISTMAS and happy new year !|
+DEBUG:root:Translation request (segmented): |Merry CR@@ IST@@ M@@ AS and happy new year !|
+DEBUG:root:Translation request (detokenized): |Buon anno!|
+DEBUG:root:Translation answer: |Buon anno!|
+DEBUG:root:Time2Translate: 1.121524 seconds
+DEBUG:root:Translation request (original): |A truck plowed into a popular Christmas market near one of Berlin's prime tourist sites, leaving at least 12 dead in what German authorities described as a "probable terror attack".|
+DEBUG:root:Translation request (tokenized): |A truck plowed into a popular Christmas market near one of Berlin &apos; s prime tourist sites , leaving at least 12 dead in what German authorities described as a &quot; probable terror attack &quot; .|
+DEBUG:root:Translation request (truecased): |a truck plowed into a popular Christmas market near one of Berlin &apos; s prime tourist sites , leaving at least 12 dead in what German authorities described as a &quot; probable terror attack &quot; .|
+DEBUG:root:Translation request (segmented): |a truck pl@@ owed into a popular Christmas market near one of Berlin &@@ a@@ pos@@ ; s prime tourist sites , leaving at least 12 dead in what German authorities described as a &@@ quot@@ ; probable terror attack &@@ quot@@ ; .|
+DEBUG:root:Translation request (detokenized): |Un camion in un mercato di Natale popolare vicino a uno dei siti di calcio di Berlino e i primi siti turistici, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un ulteriore attacco terroristico;.|
+DEBUG:root:Translation answer: |Un camion in un mercato di Natale popolare vicino a uno dei siti di calcio di Berlino e i primi siti turistici, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un ulteriore attacco terroristico;.|
+DEBUG:root:Time2Translate: 10.321416 seconds
+DEBUG:root:Translation request (original): |Hello again!|
+DEBUG:root:Translation request (tokenized): |Hello again !|
+DEBUG:root:Translation request (truecased): |Hello again !|
+DEBUG:root:Translation request (segmented): |Hello again !|
+DEBUG:root:Translation request (detokenized): |Prendi di nuovo!|
+DEBUG:root:Translation answer: |Prendi di nuovo!|
+DEBUG:root:Time2Translate: 0.651153 seconds
+DEBUG:root:Translation request (original): |A truck plowed into a popular Cristmas market near one of Berlin's prime tourist sites, leaving at least 12 dead in what German authorities described as a "probable terror attack".|
+DEBUG:root:Translation request (tokenized): |A truck plowed into a popular Cristmas market near one of Berlin &apos; s prime tourist sites , leaving at least 12 dead in what German authorities described as a &quot; probable terror attack &quot; .|
+DEBUG:root:Translation request (truecased): |a truck plowed into a popular CRISTMAS market near one of Berlin &apos; s prime tourist sites , leaving at least 12 dead in what German authorities described as a &quot; probable terror attack &quot; .|
+DEBUG:root:Translation request (segmented): |a truck pl@@ owed into a popular CR@@ IST@@ M@@ AS market near one of Berlin &@@ a@@ pos@@ ; s prime tourist sites , leaving at least 12 dead in what German authorities described as a &@@ quot@@ ; probable terror attack &@@ quot@@ ; .|
+DEBUG:root:Translation request (detokenized): |Un camion in un mercato popolare in prossimità di uno dei siti di calcio di Berlino e i primi siti turistici di Berlino, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un ulteriore attacco terroristico;.|
+DEBUG:root:Translation answer: |Un camion in un mercato popolare in prossimità di uno dei siti di calcio di Berlino e i primi siti turistici di Berlino, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un ulteriore attacco terroristico;.|
+DEBUG:root:Time2Translate: 10.793547 seconds
+DEBUG:root:Translation request (original): |A truck plowed into a popular Chrismas market near one of Berlin's prime tourist sites, leaving at least 12 dead in what German authorities described as a "probable terror attack".|
+DEBUG:root:Translation request (tokenized): |A truck plowed into a popular Chrismas market near one of Berlin &apos; s prime tourist sites , leaving at least 12 dead in what German authorities described as a &quot; probable terror attack &quot; .|
+DEBUG:root:Translation request (truecased): |a truck plowed into a popular Chrismas market near one of Berlin &apos; s prime tourist sites , leaving at least 12 dead in what German authorities described as a &quot; probable terror attack &quot; .|
+DEBUG:root:Translation request (segmented): |a truck pl@@ owed into a popular Ch@@ ris@@ mas market near one of Berlin &@@ a@@ pos@@ ; s prime tourist sites , leaving at least 12 dead in what German authorities described as a &@@ quot@@ ; probable terror attack &@@ quot@@ ; .|
+DEBUG:root:Translation request (detokenized): |Un camion in un mercato popolare di Chrismas vicino a uno dei siti di calcio di Berlino e i primi siti turistici, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un ulteriore attacco terroristico;.|
+DEBUG:root:Translation answer: |Un camion in un mercato popolare di Chrismas vicino a uno dei siti di calcio di Berlino e i primi siti turistici, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un ulteriore attacco terroristico;.|
+DEBUG:root:Time2Translate: 11.154682 seconds
+DEBUG:root:Translation request (original): |A truck plowed into a popular Christmas market near one of Berlin's prime tourist sites, leaving at least 12 dead in what German autorities described as a "probable terror attack".|
+DEBUG:root:Translation request (tokenized): |A truck plowed into a popular Christmas market near one of Berlin &apos; s prime tourist sites , leaving at least 12 dead in what German autorities described as a &quot; probable terror attack &quot; .|
+DEBUG:root:Translation request (truecased): |a truck plowed into a popular Christmas market near one of Berlin &apos; s prime tourist sites , leaving at least 12 dead in what German autorities described as a &quot; probable terror attack &quot; .|
+DEBUG:root:Translation request (segmented): |a truck pl@@ owed into a popular Christmas market near one of Berlin &@@ a@@ pos@@ ; s prime tourist sites , leaving at least 12 dead in what German autor@@ ities described as a &@@ quot@@ ; probable terror attack &@@ quot@@ ; .|
+DEBUG:root:Translation request (detokenized): |Un camion in un mercato di Natale popolare vicino a uno dei siti di calcio di Berlino e i primi siti turistici, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un ulteriore attacco terroristico;.|
+DEBUG:root:Translation answer: |Un camion in un mercato di Natale popolare vicino a uno dei siti di calcio di Berlino e i primi siti turistici, lasciando almeno 12 morti in quello che le autorità tedesche hanno descritto come un ulteriore attacco terroristico;.|
+DEBUG:root:Time2Translate: 10.439044 seconds
+DEBUG:root:Translation request (original): |I love|
+DEBUG:root:Translation request (tokenized): |I love|
+DEBUG:root:Translation request (truecased): |I love|
+DEBUG:root:Translation request (segmented): |I love|
+DEBUG:root:Translation request (detokenized): |Mi piace.|
+DEBUG:root:Translation answer: |Mi piace.|
+DEBUG:root:Time2Translate: 0.540405 seconds
+DEBUG:root:Translation request (original): |Today I am happy because I do not need to work.|
+DEBUG:root:Translation request (tokenized): |Today I am happy because I do not need to work .|
+DEBUG:root:Translation request (truecased): |today I am happy because I do not need to work .|
+DEBUG:root:Translation request (segmented): |today I am happy because I do not need to work .|
+DEBUG:root:Translation request (detokenized): |Oggi sono felice perché non ho bisogno di lavorare.|
+DEBUG:root:Translation answer: |Oggi sono felice perché non ho bisogno di lavorare.|
+DEBUG:root:Time2Translate: 1.619806 seconds
+DEBUG:root:Translation request (original): |Today I am happy because I do not have to work.|
+DEBUG:root:Translation request (tokenized): |Today I am happy because I do not have to work .|
+DEBUG:root:Translation request (truecased): |today I am happy because I do not have to work .|
+DEBUG:root:Translation request (segmented): |today I am happy because I do not have to work .|
+DEBUG:root:Translation request (detokenized): |Oggi sono felice perché non devo lavorare.|
+DEBUG:root:Translation answer: |Oggi sono felice perché non devo lavorare.|
+DEBUG:root:Time2Translate: 1.463056 seconds
+DEBUG:root:Translation request (original): |Today I am happy bcause I do not have to work.|
+DEBUG:root:Translation request (tokenized): |Today I am happy bcause I do not have to work .|
+DEBUG:root:Translation request (truecased): |today I am happy bcause I do not have to work .|
+DEBUG:root:Translation request (segmented): |today I am happy b@@ cause I do not have to work .|
+DEBUG:root:Translation request (detokenized): |Oggi sono felice di non dover lavorare.|
+DEBUG:root:Translation answer: |Oggi sono felice di non dover lavorare.|
+DEBUG:root:Time2Translate: 1.355778 seconds
+DEBUG:root:Translation request (original): |Today I am happy because I do not have to work.|
+DEBUG:root:Translation request (tokenized): |Today I am happy because I do not have to work .|
+DEBUG:root:Translation request (truecased): |today I am happy because I do not have to work .|
+DEBUG:root:Translation request (segmented): |today I am happy because I do not have to work .|
+DEBUG:root:Translation request (detokenized): |Oggi sono felice perché non devo lavorare.|
+DEBUG:root:Translation answer: |Oggi sono felice perché non devo lavorare.|
+DEBUG:root:Time2Translate: 1.458110 seconds
+DEBUG:root:Translation request (original): |Today I am happoy because I do not have to work.|
+DEBUG:root:Translation request (tokenized): |Today I am happoy because I do not have to work .|
+DEBUG:root:Translation request (truecased): |today I am happoy because I do not have to work .|
+DEBUG:root:Translation request (segmented): |today I am h@@ appo@@ y because I do not have to work .|
+DEBUG:root:Translation request (detokenized): |Oggi sono arrabbiato, perché non devo lavorare.|
+DEBUG:root:Translation answer: |Oggi sono arrabbiato, perché non devo lavorare.|
+DEBUG:root:Time2Translate: 1.719779 seconds
+DEBUG:root:Translation request (original): |Today I am happo because I do not have to work.|
+DEBUG:root:Translation request (tokenized): |Today I am happo because I do not have to work .|
+DEBUG:root:Translation request (truecased): |today I am happo because I do not have to work .|
+DEBUG:root:Translation request (segmented): |today I am hap@@ po because I do not have to work .|
+DEBUG:root:Translation request (detokenized): |Oggi sono desolato perché non devo lavorare.|
+DEBUG:root:Translation answer: |Oggi sono desolato perché non devo lavorare.|
+DEBUG:root:Time2Translate: 1.697904 seconds
+DEBUG:root:Translation request (original): |Today I am happye because I do not have to work.|
+DEBUG:root:Translation request (tokenized): |Today I am happye because I do not have to work .|
+DEBUG:root:Translation request (truecased): |today I am happye because I do not have to work .|
+DEBUG:root:Translation request (segmented): |today I am happ@@ ye because I do not have to work .|
+DEBUG:root:Translation request (detokenized): |Oggi sono desolato, perché non devo lavorare.|
+DEBUG:root:Translation answer: |Oggi sono desolato, perché non devo lavorare.|
+DEBUG:root:Time2Translate: 1.739063 seconds
+DEBUG:root:Translation request (original): |Today I am happye because I do not have to love.|
+DEBUG:root:Translation request (tokenized): |Today I am happye because I do not have to love .|
+DEBUG:root:Translation request (truecased): |today I am happye because I do not have to love .|
+DEBUG:root:Translation request (segmented): |today I am happ@@ ye because I do not have to love .|
+DEBUG:root:Translation request (detokenized): |Oggi sono felice, perché non devo amare.|
+DEBUG:root:Translation answer: |Oggi sono felice, perché non devo amare.|
+DEBUG:root:Time2Translate: 1.591335 seconds
+DEBUG:root:Translation request (original): |Today I am happye because I do not have to study.|
+DEBUG:root:Translation request (tokenized): |Today I am happye because I do not have to study .|
+DEBUG:root:Translation request (truecased): |today I am happye because I do not have to study .|
+DEBUG:root:Translation request (segmented): |today I am happ@@ ye because I do not have to study .|
+DEBUG:root:Translation request (detokenized): |Oggi sono desolato, perché non devo studiare.|
+DEBUG:root:Translation answer: |Oggi sono desolato, perché non devo studiare.|
+DEBUG:root:Time2Translate: 1.758042 seconds
+DEBUG:root:Translation request (original): |Today I am happye because I do not have to die.|
+DEBUG:root:Translation request (tokenized): |Today I am happye because I do not have to die .|
+DEBUG:root:Translation request (truecased): |today I am happye because I do not have to die .|
+DEBUG:root:Translation request (segmented): |today I am happ@@ ye because I do not have to die .|
+DEBUG:root:Translation request (detokenized): |Oggi sono desolato, perché non devo morire.|
+DEBUG:root:Translation answer: |Oggi sono desolato, perché non devo morire.|
+DEBUG:root:Time2Translate: 1.838679 seconds
+DEBUG:root:Translation request (original): |Today I am happye because I do not have to sing.|
+DEBUG:root:Translation request (tokenized): |Today I am happye because I do not have to sing .|
+DEBUG:root:Translation request (truecased): |today I am happye because I do not have to sing .|
+DEBUG:root:Translation request (segmented): |today I am happ@@ ye because I do not have to sing .|
+DEBUG:root:Translation request (detokenized): |Oggi sono felice, perché non devo cantare.|
+DEBUG:root:Translation answer: |Oggi sono felice, perché non devo cantare.|
+DEBUG:root:Time2Translate: 1.727982 seconds
+DEBUG:root:Translation request (original): |Today I am happye because I do not have to fuck.|
+DEBUG:root:Translation request (tokenized): |Today I am happye because I do not have to fuck .|
+DEBUG:root:Translation request (truecased): |today I am happye because I do not have to fuck .|
+DEBUG:root:Translation request (segmented): |today I am happ@@ ye because I do not have to fu@@ ck .|
+DEBUG:root:Translation request (detokenized): |Oggi sono felice, perché non ho a derck.|
+DEBUG:root:Translation answer: |Oggi sono felice, perché non ho a derck.|
+DEBUG:root:Time2Translate: 1.836169 seconds
+DEBUG:root:Translation request (original): |Today I am happye because I do not have to smile.|
+DEBUG:root:Translation request (tokenized): |Today I am happye because I do not have to smile .|
+DEBUG:root:Translation request (truecased): |today I am happye because I do not have to smile .|
+DEBUG:root:Translation request (segmented): |today I am happ@@ ye because I do not have to smile .|
+DEBUG:root:Translation request (detokenized): |Oggi sono felice, perché non devo sorridere.|
+DEBUG:root:Translation answer: |Oggi sono felice, perché non devo sorridere.|
+DEBUG:root:Time2Translate: 1.621529 seconds
+DEBUG:root:Translation request (original): |Today I am happye because I have to smile.|
+DEBUG:root:Translation request (tokenized): |Today I am happye because I have to smile .|
+DEBUG:root:Translation request (truecased): |today I am happye because I have to smile .|
+DEBUG:root:Translation request (segmented): |today I am happ@@ ye because I have to smile .|
+DEBUG:root:Translation request (detokenized): |Oggi sono felice, perché devo sorridere.|
+DEBUG:root:Translation answer: |Oggi sono felice, perché devo sorridere.|
+DEBUG:root:Time2Translate: 1.385703 seconds
+DEBUG:root:Translation request (original): |Today I am happye because I have to cry.|
+DEBUG:root:Translation request (tokenized): |Today I am happye because I have to cry .|
+DEBUG:root:Translation request (truecased): |today I am happye because I have to cry .|
+DEBUG:root:Translation request (segmented): |today I am happ@@ ye because I have to cry .|
+DEBUG:root:Translation request (detokenized): |Oggi sono felice, perché devo piangere.|
+DEBUG:root:Translation answer: |Oggi sono felice, perché devo piangere.|
+DEBUG:root:Time2Translate: 1.390570 seconds
+DEBUG:root:Translation request (original): |Today I am happye because I do not have to kill.|
+DEBUG:root:Translation request (tokenized): |Today I am happye because I do not have to kill .|
+DEBUG:root:Translation request (truecased): |today I am happye because I do not have to kill .|
+DEBUG:root:Translation request (segmented): |today I am happ@@ ye because I do not have to kill .|
+DEBUG:root:Translation request (detokenized): |Oggi sono desolato, perché non devo uccidere.|
+DEBUG:root:Translation answer: |Oggi sono desolato, perché non devo uccidere.|
+DEBUG:root:Time2Translate: 1.830152 seconds
+DEBUG:root:Translation request (original): |Today I am happye because I do not have to walk.|
+DEBUG:root:Translation request (tokenized): |Today I am happye because I do not have to walk .|
+DEBUG:root:Translation request (truecased): |today I am happye because I do not have to walk .|
+DEBUG:root:Translation request (segmented): |today I am happ@@ ye because I do not have to walk .|
+DEBUG:root:Translation request (detokenized): |Oggi sono felice, perché non devo camminare.|
+DEBUG:root:Translation answer: |Oggi sono felice, perché non devo camminare.|
+DEBUG:root:Time2Translate: 1.721803 seconds
+DEBUG:root:Translation request (original): |Today I am happye because I do not have to read.|
+DEBUG:root:Translation request (tokenized): |Today I am happye because I do not have to read .|
+DEBUG:root:Translation request (truecased): |today I am happye because I do not have to read .|
+DEBUG:root:Translation request (segmented): |today I am happ@@ ye because I do not have to read .|
+DEBUG:root:Translation request (detokenized): |Oggi sono desolato, perché non devo leggere.|
+DEBUG:root:Translation answer: |Oggi sono desolato, perché non devo leggere.|
+DEBUG:root:Time2Translate: 1.611651 seconds
+DEBUG:root:Translation request (original): |Today I am happye because I do not have to babysit.|
+DEBUG:root:Translation request (tokenized): |Today I am happye because I do not have to babysit .|
+DEBUG:root:Translation request (truecased): |today I am happye because I do not have to babysit .|
+DEBUG:root:Translation request (segmented): |today I am happ@@ ye because I do not have to bab@@ y@@ sit .|
+DEBUG:root:Translation request (detokenized): |Oggi sono felice, perché non ho la babyseduti.|
+DEBUG:root:Translation answer: |Oggi sono felice, perché non ho la babyseduti.|
+DEBUG:root:Time2Translate: 2.500291 seconds
+DEBUG:root:Translation request (original): |Today I am happye because I do not have to baby-sit.|
+DEBUG:root:Translation request (tokenized): |Today I am happye because I do not have to baby-sit .|
+DEBUG:root:Translation request (truecased): |today I am happye because I do not have to baby-sit .|
+DEBUG:root:Translation request (segmented): |today I am happ@@ ye because I do not have to baby-@@ sit .|
+DEBUG:root:Translation request (detokenized): |Oggi sono desolato, perché non ho a che fare con i bambini.|
+DEBUG:root:Translation answer: |Oggi sono desolato, perché non ho a che fare con i bambini.|
+DEBUG:root:Time2Translate: 2.516370 seconds
+DEBUG:root:Translation request (original): |Today I am happye because I do not have to eat.|
+DEBUG:root:Translation request (tokenized): |Today I am happye because I do not have to eat .|
+DEBUG:root:Translation request (truecased): |today I am happye because I do not have to eat .|
+DEBUG:root:Translation request (segmented): |today I am happ@@ ye because I do not have to eat .|
+DEBUG:root:Translation request (detokenized): |Oggi sono felice, perché non devo mangiare.|
+DEBUG:root:Translation answer: |Oggi sono felice, perché non devo mangiare.|
+DEBUG:root:Time2Translate: 1.700428 seconds
+DEBUG:root:Translation request (original): |Today I am happye because I do not have to toast.|
+DEBUG:root:Translation request (tokenized): |Today I am happye because I do not have to toast .|
+DEBUG:root:Translation request (truecased): |today I am happye because I do not have to toast .|
+DEBUG:root:Translation request (segmented): |today I am happ@@ ye because I do not have to to@@ ast .|
+DEBUG:root:Translation request (detokenized): |Oggi sono felice, perché non ho un sacco.|
+DEBUG:root:Translation answer: |Oggi sono felice, perché non ho un sacco.|
+DEBUG:root:Time2Translate: 2.183875 seconds
+DEBUG:root:Translation request (original): |Today I am happye because I do not have to drink.|
+DEBUG:root:Translation request (tokenized): |Today I am happye because I do not have to drink .|
+DEBUG:root:Translation request (truecased): |today I am happye because I do not have to drink .|
+DEBUG:root:Translation request (segmented): |today I am happ@@ ye because I do not have to drink .|
+DEBUG:root:Translation request (detokenized): |Oggi sono felice, perché non devo bere.|
+DEBUG:root:Translation answer: |Oggi sono felice, perché non devo bere.|
+DEBUG:root:Time2Translate: 1.703908 seconds
+DEBUG:root:Translation request (original): |Today I am happye because I do not have to puke.|
+DEBUG:root:Translation request (tokenized): |Today I am happye because I do not have to puke .|
+DEBUG:root:Translation request (truecased): |today I am happye because I do not have to puke .|
+DEBUG:root:Translation request (segmented): |today I am happ@@ ye because I do not have to pu@@ ke .|
+DEBUG:root:Translation request (detokenized): |Oggi sono felice, perché non devo nascondere la parola.|
+DEBUG:root:Translation answer: |Oggi sono felice, perché non devo nascondere la parola.|
+DEBUG:root:Time2Translate: 2.086965 seconds
+DEBUG:root:Translation request (original): |Today I am happye because I do not have to throw up.|
+DEBUG:root:Translation request (tokenized): |Today I am happye because I do not have to throw up .|
+DEBUG:root:Translation request (truecased): |today I am happye because I do not have to throw up .|
+DEBUG:root:Translation request (segmented): |today I am happ@@ ye because I do not have to throw up .|
+DEBUG:root:Translation request (detokenized): |Oggi sono desolato, perché non devo buttare via.|
+DEBUG:root:Translation answer: |Oggi sono desolato, perché non devo buttare via.|
+DEBUG:root:Time2Translate: 2.011898 seconds
+DEBUG:root:Translation request (original): |Today I am happye because I do not have to work.|
+DEBUG:root:Translation request (tokenized): |Today I am happye because I do not have to work .|
+DEBUG:root:Translation request (truecased): |today I am happye because I do not have to work .|
+DEBUG:root:Translation request (segmented): |today I am happ@@ ye because I do not have to work .|
+DEBUG:root:Translation request (detokenized): |Oggi sono desolato, perché non devo lavorare.|
+DEBUG:root:Translation answer: |Oggi sono desolato, perché non devo lavorare.|
+DEBUG:root:Time2Translate: 1.764156 seconds
+DEBUG:root:Translation request (original): |Today I am happye because I do not have to smile.|
+DEBUG:root:Translation request (tokenized): |Today I am happye because I do not have to smile .|
+DEBUG:root:Translation request (truecased): |today I am happye because I do not have to smile .|
+DEBUG:root:Translation request (segmented): |today I am happ@@ ye because I do not have to smile .|
+DEBUG:root:Translation request (detokenized): |Oggi sono felice, perché non devo sorridere.|
+DEBUG:root:Translation answer: |Oggi sono felice, perché non devo sorridere.|
+DEBUG:root:Time2Translate: 1.632602 seconds
+DEBUG:root:Translation request (original): |Today I am happye because I do not have to die.|
+DEBUG:root:Translation request (tokenized): |Today I am happye because I do not have to die .|
+DEBUG:root:Translation request (truecased): |today I am happye because I do not have to die .|
+DEBUG:root:Translation request (segmented): |today I am happ@@ ye because I do not have to die .|
+DEBUG:root:Translation request (detokenized): |Oggi sono desolato, perché non devo morire.|
+DEBUG:root:Translation answer: |Oggi sono desolato, perché non devo morire.|
+DEBUG:root:Time2Translate: 1.837064 seconds
+DEBUG:root:Translation request (original): |Today I am happye because I do not have to drink.|
+DEBUG:root:Translation request (tokenized): |Today I am happye because I do not have to drink .|
+DEBUG:root:Translation request (truecased): |today I am happye because I do not have to drink .|
+DEBUG:root:Translation request (segmented): |today I am happ@@ ye because I do not have to drink .|
+DEBUG:root:Translation request (detokenized): |Oggi sono felice, perché non devo bere.|
+DEBUG:root:Translation answer: |Oggi sono felice, perché non devo bere.|
+DEBUG:root:Time2Translate: 1.693467 seconds
+DEBUG:root:Translation request (original): |Today I am happye because I do not have to drive.|
+DEBUG:root:Translation request (tokenized): |Today I am happye because I do not have to drive .|
+DEBUG:root:Translation request (truecased): |today I am happye because I do not have to drive .|
+DEBUG:root:Translation request (segmented): |today I am happ@@ ye because I do not have to drive .|
+DEBUG:root:Translation request (detokenized): |Oggi sono desolato, perché non devo guidare.|
+DEBUG:root:Translation answer: |Oggi sono desolato, perché non devo guidare.|
+DEBUG:root:Time2Translate: 1.878717 seconds
+DEBUG:root:Translation request (original): |Today I am happye because I do not have to have fun.|
+DEBUG:root:Translation request (tokenized): |Today I am happye because I do not have to have fun .|
+DEBUG:root:Translation request (truecased): |today I am happye because I do not have to have fun .|
+DEBUG:root:Translation request (segmented): |today I am happ@@ ye because I do not have to have fun .|
+DEBUG:root:Translation request (detokenized): |Oggi sono felice, perché non devo essere divertente.|
+DEBUG:root:Translation answer: |Oggi sono felice, perché non devo essere divertente.|
+DEBUG:root:Time2Translate: 1.795240 seconds
+DEBUG:root:Translation request (original): |Today I am happye because I do not have to work.|
+DEBUG:root:Translation request (tokenized): |Today I am happye because I do not have to work .|
+DEBUG:root:Translation request (truecased): |today I am happye because I do not have to work .|
+DEBUG:root:Translation request (segmented): |today I am happ@@ ye because I do not have to work .|
+DEBUG:root:Translation request (detokenized): |Oggi sono desolato, perché non devo lavorare.|
+DEBUG:root:Translation answer: |Oggi sono desolato, perché non devo lavorare.|
+DEBUG:root:Time2Translate: 1.744831 seconds
+DEBUG:root:Translation request (original): |Today I am happye because I do not have to smile.|
+DEBUG:root:Translation request (tokenized): |Today I am happye because I do not have to smile .|
+DEBUG:root:Translation request (truecased): |today I am happye because I do not have to smile .|
+DEBUG:root:Translation request (segmented): |today I am happ@@ ye because I do not have to smile .|
+DEBUG:root:Translation request (detokenized): |Oggi sono felice, perché non devo sorridere.|
+DEBUG:root:Translation answer: |Oggi sono felice, perché non devo sorridere.|
+DEBUG:root:Time2Translate: 1.616610 seconds
+DEBUG:root:Translation request (original): |I'm happy to stay with matthew|
+DEBUG:root:Translation request (tokenized): |I &apos; m happy to stay with matthew|
+DEBUG:root:Translation request (truecased): |I &apos; m happy to stay with matthew|
+DEBUG:root:Translation request (segmented): |I &@@ a@@ pos@@ ; m happy to stay with mat@@ the@@ w|
+DEBUG:root:Translation request (detokenized): |Io sono sposato. m felice di restare con le matite.|
+DEBUG:root:Translation answer: |Io sono sposato. m felice di restare con le matite.|
+DEBUG:root:Time2Translate: 2.400951 seconds
+DEBUG:root:Translation request (original): |I am happy to stay with Matthew|
+DEBUG:root:Translation request (tokenized): |I am happy to stay with Matthew|
+DEBUG:root:Translation request (truecased): |I am happy to stay with Matthew|
+DEBUG:root:Translation request (segmented): |I am happy to stay with Matthew|
+DEBUG:root:Translation request (detokenized): |Sono lieto di restare con lui.|
+DEBUG:root:Translation answer: |Sono lieto di restare con lui.|
+DEBUG:root:Time2Translate: 1.366157 seconds
+DEBUG:root:Translation request (original): |Sally is at work today. Bob went to the store. Sally is in the bathroom. Where is Sally?|
+DEBUG:root:Translation request (tokenized): |Sally is at work today . Bob went to the store . Sally is in the bathroom . Where is Sally ?|
+DEBUG:root:Translation request (truecased): |Sally is at work today . Bob went to the store . Sally is in the bathroom . where is Sally ?|
+DEBUG:root:Translation request (segmented): |Sally is at work today . Bob went to the store . Sally is in the bathroom . where is Sally ?|
+DEBUG:root:Translation request (detokenized): |Averroè è al lavoro di oggi. Bob si è recato al negozio, la Maria è in bagno. Dove è Maria?|
+DEBUG:root:Translation answer: |Averroè è al lavoro di oggi. Bob si è recato al negozio, la Maria è in bagno. Dove è Maria?|
+DEBUG:root:Time2Translate: 4.256653 seconds
+DEBUG:root:Translation request (original): |Where is Sally?|
+DEBUG:root:Translation request (tokenized): |Where is Sally ?|
+DEBUG:root:Translation request (truecased): |where is Sally ?|
+DEBUG:root:Translation request (segmented): |where is Sally ?|
+DEBUG:root:Translation request (detokenized): |Dove è la Groenlandia?|
+DEBUG:root:Translation answer: |Dove è la Groenlandia?|
+DEBUG:root:Time2Translate: 0.805291 seconds
+DEBUG:root:Translation request (original): |Bob is at work today. Bob went to the store. Bob is in the bathroom. Where is Bob?|
+DEBUG:root:Translation request (tokenized): |Bob is at work today . Bob went to the store . Bob is in the bathroom . Where is Bob ?|
+DEBUG:root:Translation request (truecased): |Bob is at work today . Bob went to the store . Bob is in the bathroom . where is Bob ?|
+DEBUG:root:Translation request (segmented): |Bob is at work today . Bob went to the store . Bob is in the bathroom . where is Bob ?|
+DEBUG:root:Translation request (detokenized): |Bob è a lavorare oggi. Bob andò al negozio. Bob è in bagno. Dove è Bob?|
+DEBUG:root:Translation answer: |Bob è a lavorare oggi. Bob andò al negozio. Bob è in bagno. Dove è Bob?|
+DEBUG:root:Time2Translate: 3.716139 seconds
+DEBUG:root:Translation request (original): |Sally is at work today. Sally went to the store. Sally is in the bathroom. Where is Sally?|
+DEBUG:root:Translation request (tokenized): |Sally is at work today . Sally went to the store . Sally is in the bathroom . Where is Sally ?|
+DEBUG:root:Translation request (truecased): |Sally is at work today . Sally went to the store . Sally is in the bathroom . where is Sally ?|
+DEBUG:root:Translation request (segmented): |Sally is at work today . Sally went to the store . Sally is in the bathroom . where is Sally ?|
+DEBUG:root:Translation request (detokenized): |Averroè è al lavoro di oggi; la Groenlandia si è recata al negozio, la Maria è in bagno. Dove è la Groenlandia?|
+DEBUG:root:Translation answer: |Averroè è al lavoro di oggi; la Groenlandia si è recata al negozio, la Maria è in bagno. Dove è la Groenlandia?|
+DEBUG:root:Time2Translate: 4.471797 seconds
+DEBUG:root:Translation request (original): |Bob is at work today. Bob went to the store. Bob is in the bathroom. Where is Bob?|
+DEBUG:root:Translation request (tokenized): |Bob is at work today . Bob went to the store . Bob is in the bathroom . Where is Bob ?|
+DEBUG:root:Translation request (truecased): |Bob is at work today . Bob went to the store . Bob is in the bathroom . where is Bob ?|
+DEBUG:root:Translation request (segmented): |Bob is at work today . Bob went to the store . Bob is in the bathroom . where is Bob ?|
+DEBUG:root:Translation request (detokenized): |Bob è a lavorare oggi. Bob andò al negozio. Bob è in bagno. Dove è Bob?|
+DEBUG:root:Translation answer: |Bob è a lavorare oggi. Bob andò al negozio. Bob è in bagno. Dove è Bob?|
+DEBUG:root:Time2Translate: 3.703977 seconds
+DEBUG:root:Translation request (original): |Three people have been injured in a shooting at an Islamic center in Zurich.|
+DEBUG:root:Translation request (tokenized): |Three people have been injured in a shooting at an Islamic center in Zurich .|
+DEBUG:root:Translation request (truecased): |three people have been injured in a shooting at an Islamic center in Zurich .|
+DEBUG:root:Translation request (segmented): |three people have been injured in a shooting at an Islamic center in Zur@@ ich .|
+DEBUG:root:Translation request (detokenized): |Tre persone sono state ferite in un massacro in un centro islamico di Zurigo.|
+DEBUG:root:Translation answer: |Tre persone sono state ferite in un massacro in un centro islamico di Zurigo.|
+DEBUG:root:Time2Translate: 2.751169 seconds
+DEBUG:root:Translation request (original): |Lloyds Banking Group said it is buying the credit-card business of Bank of America|
+DEBUG:root:Translation request (tokenized): |Lloyds Banking Group said it is buying the credit-card business of Bank of America|
+DEBUG:root:Translation request (truecased): |Lloyds Banking Group said it is buying the credit-card business of Bank of America|
+DEBUG:root:Translation request (segmented): |Lloy@@ ds Banking Group said it is buying the credit-@@ card business of Bank of America|
+DEBUG:root:Translation request (detokenized): |Il gruppo bancario dei Lloyds ha detto che sta comprando la carta di credito della Banca d'America.|
+DEBUG:root:Translation answer: |Il gruppo bancario dei Lloyds ha detto che sta comprando la carta di credito della Banca d'America.|
+DEBUG:root:Time2Translate: 3.204212 seconds
+DEBUG:root:Translation request (original): |Sally ha mangiato.|
+DEBUG:root:Translation request (tokenized): |Sally ha mangiato .|
+DEBUG:root:Translation request (truecased): |Sally ha mangiato .|
+DEBUG:root:Translation request (segmented): |Sally ha mangiato .|
+DEBUG:root:Translation request (detokenized): |Maria ha N.|
+DEBUG:root:Translation answer: |Maria ha N.|
+DEBUG:root:Time2Translate: 0.627554 seconds
+DEBUG:root:Translation request (original): |Sally has eaten.|
+DEBUG:root:Translation request (tokenized): |Sally has eaten .|
+DEBUG:root:Translation request (truecased): |Sally has eaten .|
+DEBUG:root:Translation request (segmented): |Sally has eaten .|
+DEBUG:root:Translation request (detokenized): |Maria ha mangiato.|
+DEBUG:root:Translation answer: |Maria ha mangiato.|
+DEBUG:root:Time2Translate: 0.857564 seconds
+DEBUG:root:Translation request (original): |Lloyds Banking Group said it is buying the credit-card business of Bank of America|
+DEBUG:root:Translation request (tokenized): |Lloyds Banking Group said it is buying the credit-card business of Bank of America|
+DEBUG:root:Translation request (truecased): |Lloyds Banking Group said it is buying the credit-card business of Bank of America|
+DEBUG:root:Translation request (segmented): |Lloy@@ ds Banking Group said it is buying the credit-@@ card business of Bank of America|
+DEBUG:root:Translation request (detokenized): |Il gruppo bancario dei Lloyds ha detto che sta comprando la carta di credito della Banca d'America.|
+DEBUG:root:Translation answer: |Il gruppo bancario dei Lloyds ha detto che sta comprando la carta di credito della Banca d'America.|
+DEBUG:root:Time2Translate: 3.225648 seconds

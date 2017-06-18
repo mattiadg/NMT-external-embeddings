@@ -1,0 +1,24 @@
+Using gpu device 0: Quadro K420 (CNMeM is disabled, cuDNN not available)
+/home/farajian/NLP/tools/NMT/nematus-15.11.2016/toy_example/train.en already exist
+/home/farajian/NLP/tools/NMT/nematus-15.11.2016/toy_example/train.de already exist
+/home/farajian/NLP/tools/NMT/nematus-15.11.2016/toy_example/dev.en already exist
+/home/farajian/NLP/tools/NMT/nematus-15.11.2016/toy_example/dev.de already exist
+/home/farajian/NLP/tools/NMT/nematus-15.11.2016/toy_example/train.en.json already exist
+/home/farajian/NLP/tools/NMT/nematus-15.11.2016/toy_example/train.de.json already exist
+Building f_init... Done
+Building f_next.. Done
+/hardmnt/bowie0/home/farajian/NLP/tools/NMT/nematus-15.11.2016/nematus/optimizers.py:139: FutureWarning: comparison to `None` will result in an elementwise object comparison in the future.
+  if ghist == None:
+/home/farajian/NLP/tools/NMT/nematus-15.11.2016//validate.sh /home/farajian/NLP/tools/NMT/nematus-15.11.2016/toy_example /home/farajian/NLP/tools/NMT/nematus-15.11.2016/toy_example/dev.en /home/farajian/NLP/tools/NMT/nematus-15.11.2016/toy_example/dev.de gpu0 0
+Loading data
+Building model
+Reloading model parameters
+Reloading the model
+Building sampler
+Building f_log_probs... Done
+Building f_cost... Done
+Computing gradient... Done
+Building optimizers... Done
+Optimization
+Epoch  0 Update  11 Cost  151.793960571 UD  2.98281002045
+Epoch  0 Update  12 Cost  135.900848389 UD  2.97595095634

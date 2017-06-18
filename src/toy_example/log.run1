@@ -1,0 +1,33 @@
+Using gpu device 0: Quadro K420 (CNMeM is disabled, cuDNN not available)
+/home/farajian/NLP/tools/NMT/nematus-15.11.2016/toy_example/train.en already exist
+/home/farajian/NLP/tools/NMT/nematus-15.11.2016/toy_example/train.de already exist
+/home/farajian/NLP/tools/NMT/nematus-15.11.2016/toy_example/dev.en already exist
+/home/farajian/NLP/tools/NMT/nematus-15.11.2016/toy_example/dev.de already exist
+/home/farajian/NLP/tools/NMT/nematus-15.11.2016/toy_example/train.en.json already exist
+/home/farajian/NLP/tools/NMT/nematus-15.11.2016/toy_example/train.de.json already exist
+Building f_init... Done
+Building f_next.. Done
+/home/farajian/NLP/tools/NMT/nematus-15.11.2016//validate.sh /home/farajian/NLP/tools/NMT/nematus-15.11.2016/toy_example /home/farajian/NLP/tools/NMT/nematus-15.11.2016/toy_example/dev.en /home/farajian/NLP/tools/NMT/nematus-15.11.2016/toy_example/dev.de gpu0 0
+Loading data
+Building model
+Building sampler
+Building f_log_probs... Done
+Building f_cost... Done
+Computing gradient... Done
+Building optimizers... Done
+Optimization
+Epoch  0 Update  1 Cost  196.178344727 UD  2.76576185226
+Epoch  0 Update  2 Cost  182.954177856 UD  3.41338896751
+Epoch  0 Update  3 Cost  173.129577637 UD  2.9285299778
+Epoch  0 Update  4 Cost  157.022796631 UD  2.86235308647
+Epoch  0 Update  5 Cost  148.023361206 UD  3.06055116653
+Epoch  0 Update  6 Cost  127.072128296 UD  3.00231480598
+Epoch  0 Update  7 Cost  139.928985596 UD  3.47299718857
+Epoch  0 Update  8 Cost  134.910400391 UD  2.79151797295
+Epoch  0 Update  9 Cost  135.334442139 UD  3.16841101646
+Epoch  0 Update  10 Cost  140.301071167 UD  1.6105568409
+Saving the best model... Done
+Saving the model at iteration 10... Done
+Seen 949 samples
+Epoch  1 Update  11 Cost  151.793960571 UD  3.15802907944
+Epoch  1 Update  12 Cost  135.900848389 UD  3.03439116478

@@ -1,0 +1,69 @@
+{
+  "map_decay_c": 0.0, 
+  "dropout_hidden": 0.2, 
+  "decoder": "gru_cond", 
+  "sort_by_length": false, 
+  "decay_c": 0.0, 
+  "dropout_source": 0.1, 
+  "model_version": 0.1, 
+  "clip_c": 1.0, 
+  "domain_interpolation_indomain_datasets": [
+    "indomain.en", 
+    "indomain.fr"
+  ], 
+  "max_epochs": 100, 
+  "dispFreq": 1, 
+  "finetune_only_last": false, 
+  "overwrite": false, 
+  "validFreq": 100000, 
+  "dropout_embedding": 0.2, 
+  "external_validation_script": [
+    "/home/farajian/NLP/tools/NMT/nematus-15.11.2016//validate.sh", 
+    "/home/farajian/NLP/tools/NMT/nematus-15.11.2016/toy_example", 
+    "/home/farajian/NLP/tools/NMT/nematus-15.11.2016/toy_example/dev.en", 
+    "/home/farajian/NLP/tools/NMT/nematus-15.11.2016/toy_example/dev.de", 
+    "gpu0", 
+    "0"
+  ], 
+  "dim_per_factor": [
+    100
+  ], 
+  "n_words_src": 4167, 
+  "saveto": "/home/farajian/NLP/tools/NMT/nematus-15.11.2016/toy_example/model.npz", 
+  "dropout_target": 0.1, 
+  "valid_batch_size": 100, 
+  "n_words": 5121, 
+  "optimizer": "adagrad", 
+  "alpha_c": 0.0, 
+  "batch_size": 100, 
+  "use_domain_interpolation": false, 
+  "lrate": 0.01, 
+  "valid_datasets": [
+    "/home/farajian/NLP/tools/NMT/nematus-15.11.2016/toy_example/dev.en", 
+    "/home/farajian/NLP/tools/NMT/nematus-15.11.2016/toy_example/dev.de"
+  ], 
+  "domain_interpolation_min": 0.1, 
+  "encoder": "gru", 
+  "shuffle_each_epoch": false, 
+  "dim": 200, 
+  "use_dropout": false, 
+  "datasets": [
+    "/home/farajian/NLP/tools/NMT/nematus-15.11.2016/toy_example/train.en", 
+    "/home/farajian/NLP/tools/NMT/nematus-15.11.2016/toy_example/train.de"
+  ], 
+  "dim_word": 100, 
+  "sampleFreq": 1000000, 
+  "patience": 1000, 
+  "maxibatch_size": 20, 
+  "finetune": false, 
+  "factors": 1, 
+  "dictionaries": [
+    "/home/farajian/NLP/tools/NMT/nematus-15.11.2016/toy_example/train.en.json", 
+    "/home/farajian/NLP/tools/NMT/nematus-15.11.2016/toy_example/train.de.json"
+  ], 
+  "reload_": true, 
+  "maxlen": 50, 
+  "finish_after": 10000000, 
+  "domain_interpolation_inc": 0.1, 
+  "saveFreq": 10
+}
